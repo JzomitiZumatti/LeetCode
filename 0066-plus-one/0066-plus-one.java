@@ -23,7 +23,6 @@ class Solution {
             str.reverse();
             BigInteger bigInt = new BigInteger(String.valueOf(str)).add(new BigInteger("1"));
             String ho = String.valueOf(bigInt);
-            //String number = String.valueOf(Integer.parseInt(String.valueOf(str)) + 1);
             for (int i = 0; i < ho.length(); i++) {
                 numbers.addLast(Integer.parseInt(String.valueOf(ho.charAt(i))));
             }
