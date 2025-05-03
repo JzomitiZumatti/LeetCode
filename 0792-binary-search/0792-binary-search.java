@@ -1,10 +1,12 @@
-import java.util.*;
 class Solution {
     public int search(int[] nums, int target) {
-        Map<Integer, Integer> numberIndex = new HashMap<>();
+        int result = -2;
         for (int i = 0; i < nums.length; i++) {
-            numberIndex.put(nums[i], i);
+            if (nums[i] == target) {
+                result = i;
+                break;
+            }
         }
-        return numberIndex.getOrDefault(target, -1);
+        return result != -2 ? result : -1;
     }
 }
