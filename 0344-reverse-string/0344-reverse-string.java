@@ -1,9 +1,13 @@
 import java.util.*;
 class Solution {
     public void reverseString(char[] s) {
-        char[] sCopy = s.clone();
-        for (int i = sCopy.length - 1, j = 0; i >= 0 && j < s.length; i--, j++) {
-            s[j] = sCopy[i];
+        int left = 0, right = s.length - 1;
+        while (left < right) {
+            char temp = s[left];
+            s[left] = s[right];
+            s[right] = temp;
+            left++;
+            right--;
         }
     }
 }
