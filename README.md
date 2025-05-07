@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
+| [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
