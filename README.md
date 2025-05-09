@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JzomitiZumatti/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
