@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/JzomitiZumatti/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/JzomitiZumatti/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0415-add-strings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/JzomitiZumatti/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
 ## Stack
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/JzomitiZumatti/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/JzomitiZumatti/LeetCode/tree/master/0495-teemo-attacking) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0389-find-the-difference) |
 ## Queue
@@ -144,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0476-number-complement) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0455-assign-cookies) |
