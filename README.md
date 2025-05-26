@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/JzomitiZumatti/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0415-add-strings) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
