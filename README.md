@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JzomitiZumatti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
