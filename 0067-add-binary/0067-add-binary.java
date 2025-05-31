@@ -8,18 +8,15 @@ class Solution {
         } else if (b.length() < a.length()) {
             b = addZeros(b, a.length() - b.length());
         }
+        System.out.println(a);
         for (int i = a.length() - 1; i >= 0; i--) {
-            int anInt = Integer.parseInt(String.valueOf(a.charAt(i)));
-            int bInt = Integer.parseInt(String.valueOf(b.charAt(i)));
+            int anInt = a.charAt(i) - '0';
+            int bInt = b.charAt(i) - '0';
             sum = anInt + bInt + carry;
-            carry = carry == 1 ? 0 : carry;
-            if (sum > 1) {
-                carry = 1;
-            }
-            total.append(sum == 3 ? 1
-                    : sum == 2 ? 0 : sum == 1 ? 1 : 0);
+            carry = sum / 2;
+            total.append(sum % 2);
         }
-        if (carry != 0) {
+        if (carry == 1) {
             total.append(carry);
         }
         return total.reverse().toString();
