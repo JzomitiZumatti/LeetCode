@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JzomitiZumatti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/JzomitiZumatti/LeetCode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/JzomitiZumatti/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JzomitiZumatti/LeetCode/tree/master/0561-array-partition) |
 ## Tree
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
