@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JzomitiZumatti/LeetCode/tree/master/0561-array-partition) |
 ## Tree
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JzomitiZumatti/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0476-number-complement) |
 ## Sorting
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
