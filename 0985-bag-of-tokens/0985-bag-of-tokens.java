@@ -15,7 +15,7 @@ class Solution {
                 power += tokens[high];
                 high--;
             } else {
-                return 0;
+                break;
             }
             maxScore = Math.max(maxScore, score);
         }
