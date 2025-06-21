@@ -1,10 +1,9 @@
 class Solution {
     public String predictPartyVictory(String senate) {
-        String[] senateArr = senate.split("");
         LinkedList<Integer> r = new LinkedList<>();
         LinkedList<Integer> d = new LinkedList<>();
-        for (int i = 0; i < senateArr.length; i++) {
-            if (senateArr[i].equals("D")) {
+        for (int i = 0; i < senate.length(); i++) {
+            if (senate.charAt(i) == 'D') {
                 d.add(i);
             } else {
                 r.add(i);
@@ -15,9 +14,9 @@ class Solution {
             int rS = r.poll();
             int dS = d.poll();
             if (rS < dS) {
-                r.addLast(rS + senateArr.length);
+                r.addLast(rS + senate.length());
             } else {
-                d.addLast(dS + senateArr.length);
+                d.addLast(dS + senate.length());
             }
         }
 
