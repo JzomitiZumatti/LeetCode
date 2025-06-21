@@ -22,12 +22,4 @@ class Solution {
 
         return !r.isEmpty() ? "Radiant" : "Dire";
     }
-
-    private static boolean isAvailable(Map<Integer, Integer> map, int i) {
-        if (!map.isEmpty() && map.containsKey(i)) {
-            return map.get(i) != 0;
-        } else {
-            return false;
-        }
-    }
 }
