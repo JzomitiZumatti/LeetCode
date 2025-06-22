@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JzomitiZumatti/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/JzomitiZumatti/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/JzomitiZumatti/LeetCode/tree/master/0649-dota2-senate) |
+| [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 ## Tree
 |  |
