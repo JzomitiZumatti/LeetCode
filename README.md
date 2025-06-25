@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1168-duplicate-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/JzomitiZumatti/LeetCode/tree/master/0649-dota2-senate) |
+| [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
 | [2032-largest-odd-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JzomitiZumatti/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
+| [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
 | [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0978-valid-mountain-array) |
