@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/JzomitiZumatti/LeetCode/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JzomitiZumatti/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/JzomitiZumatti/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0313-super-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/JzomitiZumatti/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/JzomitiZumatti/LeetCode/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0392-is-subsequence) |
