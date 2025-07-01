@@ -7,10 +7,8 @@ class Solution {
         int next = current + 1;
         int max = 0;
         while (next < nums.length) {
-            if (nums[current] == nums[next]) {
-                freq[j] += 1;
-            } else {
-                freq[j] += 1;
+            freq[j] += 1;
+            if (nums[current] != nums[next]) {
                 j++;
             }
             max = max < freq[j] ? current : max;
