@@ -1,19 +1,14 @@
 class Solution {
     public int lastStoneWeight(int[] stones) {
-        Stack<Integer> ston = new Stack<>();
-        Arrays.sort(stones);
+        PriorityQueue<Integer> ston = new PriorityQueue<>(Collections.reverseOrder());
         for (int s : stones) {
-            ston.push(s);
+            ston.add(s);
         }
-        //System.out.println(ston);
         while (ston.size() > 1) {
-            int dif = ston.pop() - ston.pop();
-            //System.out.println(dif);
+            int dif = ston.poll() - ston.poll();
             if (dif != 0) {
-                ston.push(dif);
+                ston.add(dif);
             }
-            Collections.sort(ston);
-            //System.out.println(ston);
         }
         return !ston.isEmpty() ? ston.peek() : 0;
     }
