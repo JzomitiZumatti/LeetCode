@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
+| [1127-last-stone-weight](https://github.com/JzomitiZumatti/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/JzomitiZumatti/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/JzomitiZumatti/LeetCode/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/JzomitiZumatti/LeetCode/tree/master/1127-last-stone-weight) |
 ## Counting Sort
 |  |
 | ------- |
