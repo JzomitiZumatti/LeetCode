@@ -1,37 +1,26 @@
 class Solution {
     public int findSpecialInteger(int[] arr) {
-        List<Integer> freq = new ArrayList<>();
-        List<Integer> unique = new ArrayList<>();
+        int maxSeries = 0;
+        int index = 0;
         int counter = 0;
-        int currentI = 0;
         for (int i = 0; i < arr.length; i++) {
-            currentI = i;
             int next = i + 1 < arr.length ? i + 1 : i;
             if (arr[i] == arr[next]) {
                 counter++;
                 if (counter == arr.length) {
-                    freq.add(counter);
-                    unique.add(arr[i]);
-                    counter = 0;
+                    return arr[i];
                 }
             } else {
-                unique.add(arr[i]);
-                freq.add(counter);
+                if (counter > maxSeries) {
+                    maxSeries = counter;
+                    index = i;
+                }
                 counter = 0;
             }
         }
-        if (counter != 0) {
-            freq.add(counter);
-            unique.add(arr[currentI]);
+        if (counter > 0 && counter > maxSeries) {
+            return arr[arr.length - 1];
         }
-        int max = 0;
-        int index = -1;
-        for (int i = 0; i < freq.size(); i++) {
-            if (freq.get(i) > max) {
-                max = freq.get(i);
-                index = i;
-            }
-        }
-        return unique.get(index);
+        return arr[index];
     }
 }
