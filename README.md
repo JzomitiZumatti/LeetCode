@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1287-distance-between-bus-stops](https://github.com/JzomitiZumatti/LeetCode/tree/master/1287-distance-between-bus-stops) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/JzomitiZumatti/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Queue
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
