@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1287-distance-between-bus-stops](https://github.com/JzomitiZumatti/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/JzomitiZumatti/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
