@@ -6,11 +6,11 @@ class Solution {
             int index = i < arr.length ? i : arr.length - 1;
             counter++;
             if (counter != arr[index] && counter <= arr[arr.length - 1]) {
-                while (counter < arr[index]) {
+                while (counter < arr[index] && missing.size() <= k) {
                     missing.add(counter);
                     counter++;
                 }
-            } else if (counter > arr[arr.length - 1]) {
+            } else if (counter > arr[arr.length - 1] && missing.size() <= k) {
                 missing.add(counter);
             }
         }
