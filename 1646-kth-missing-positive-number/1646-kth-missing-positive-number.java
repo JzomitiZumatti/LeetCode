@@ -5,7 +5,6 @@ class Solution {
         for (int i = 0; i < arr.length + k; i++) {
             int index = i < arr.length ? i : arr.length - 1;
             counter++;
-            System.out.println(counter + " " + arr[index]);
             if (counter != arr[index] && counter <= arr[arr.length - 1]) {
                 while (counter < arr[index]) {
                     missing.add(counter);
@@ -15,7 +14,6 @@ class Solution {
                 missing.add(counter);
             }
         }
-        System.out.println(missing);
         return missing.get(k - 1);
     }
 }
