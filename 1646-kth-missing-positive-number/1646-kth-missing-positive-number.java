@@ -6,12 +6,12 @@ class Solution {
             int index = i < arr.length ? i : arr.length - 1;
             counter++;
             System.out.println(counter + " " + arr[index]);
-            if (counter != arr[index] && counter <= arr[arr.length - 1] && missing.size() <= k) {
+            if (counter != arr[index] && counter <= arr[arr.length - 1]) {
                 while (counter < arr[index]) {
                     missing.add(counter);
                     counter++;
                 }
-            } else if (counter > arr[arr.length - 1] && missing.size() <= k) {
+            } else if (counter > arr[arr.length - 1]) {
                 missing.add(counter);
             }
         }
