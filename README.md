@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
 | [1755-defuse-the-bomb](https://github.com/JzomitiZumatti/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1769-get-maximum-in-generated-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JzomitiZumatti/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/JzomitiZumatti/LeetCode/tree/master/0495-teemo-attacking) |
+| [1769-get-maximum-in-generated-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 ## Number Theory
 |  |
 | ------- |
