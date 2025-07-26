@@ -1,12 +1,15 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-        int counter = candyType.length > 0 ? 1 : 0;
-        Arrays.sort(candyType);
-        for (int i = 1; i < candyType.length; i++) {
-            if (candyType[i] != candyType[i - 1] && counter < candyType.length / 2) {
+        Set<Integer> unique = new HashSet<>();
+        for (int c : candyType) {
+            unique.add(c);
+        }
+
+        int counter = 0;
+        for (Integer u : unique) {
+            if (counter < candyType.length / 2) {
                 counter++;
-            }
-            if (counter == candyType.length / 2) {
+            } else {
                 return counter;
             }
         }
