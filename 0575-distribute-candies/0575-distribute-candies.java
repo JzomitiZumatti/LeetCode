@@ -5,14 +5,6 @@ class Solution {
             unique.add(c);
         }
 
-        int counter = 0;
-        for (Integer u : unique) {
-            if (counter < candyType.length / 2) {
-                counter++;
-            } else {
-                return counter;
-            }
-        }
-        return counter;
+        return unique.isEmpty() ? 0 : Math.min(unique.size(), candyType.length / 2);
     }
 }
