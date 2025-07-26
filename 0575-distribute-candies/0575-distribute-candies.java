@@ -1,10 +1,14 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-        Set<Integer> unique = new HashSet<>();
+        boolean[] seen = new boolean[200001];
+        int unique = 0;
         for (int c : candyType) {
-            unique.add(c);
+            if (!seen[c + 100000]) {
+                seen[c + 100000] = true;
+                unique++;
+            }
         }
+        return Math.min(unique, candyType.length / 2);
 
-        return unique.isEmpty() ? 0 : Math.min(unique.size(), candyType.length / 2);
     }
 }
