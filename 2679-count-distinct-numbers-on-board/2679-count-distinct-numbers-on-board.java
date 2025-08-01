@@ -1,16 +1,10 @@
 class Solution {
     public int distinctIntegers(int n) {
-        List<Integer> numbers = new ArrayList<>();
-        numbers.add(n);
-        for (int i = 0; i < numbers.size(); i++) {
-            for (int j = 1; j <= numbers.get(i); j++) {
-                if (numbers.get(i) % j == 1) {
-                    numbers.add(j);
-                }
-            }
+        if (n == 1) return 1;
+        Set<Integer> set = new HashSet<>();
+        for (int i = 2; i <= n ; i++) {
+            set.add(i);
         }
-
-        Set<Integer> unique = new HashSet<>(numbers);
-        return unique.size();
+        return set.size();
     }
 }
