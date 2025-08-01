@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/1168-duplicate-zeros) |
+| [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 ## Queue
 |  |
 | ------- |
