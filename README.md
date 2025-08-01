@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2386-min-max-game) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/JzomitiZumatti/LeetCode/tree/master/0495-teemo-attacking) |
 | [1769-get-maximum-in-generated-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2386-min-max-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2386-min-max-game) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Number Theory
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/JzomitiZumatti/LeetCode/tree/master/1137-height-checker) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/JzomitiZumatti/LeetCode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/JzomitiZumatti/LeetCode/tree/master/1127-last-stone-weight) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting Sort
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Backtracking
 |  |
 | ------- |
