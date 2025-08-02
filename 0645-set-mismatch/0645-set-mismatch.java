@@ -1,41 +1,37 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
         Arrays.sort(nums);
-        List<Integer> pairs = new ArrayList<>();
-        boolean[] ns = new boolean[nums.length + 1];
-        Arrays.fill(ns, false);
-        for (int i = 0; i < ns.length; i++) {
-            for (int j = 0; j < nums.length; j++) {
-                if (i + 1 == nums[j]) {
-                    ns[i] = true;
-                    break;
-                }
-            }
+        List<Integer> intList = new ArrayList<Integer>(nums.length);
+        for (int i : nums)
+        {
+            intList.add(i);
         }
+        TreeSet<Integer> nes = new TreeSet<>(intList);
+
+        System.out.println(nes.size());
+        int dublicate = -1;
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1]) {
-                int missing = returnMissingNumber(ns);
-                if (missing == -1) {
-                    pairs.add(nums[i - 1]);
-                    pairs.add(nums[i] + 1);
-                    break;
-                } else {
-                    pairs.add(nums[i - 1]);
-                    pairs.add(missing + 1);
-                }
+                dublicate = i;
             }
         }
-        return pairs.stream()
-                .mapToInt(Integer::intValue)
-                .toArray();
-    }
-
-    private static int returnMissingNumber(boolean[] numbs) {
-        for (int i = 0; i < numbs.length; i++) {
-            if (!numbs[i]) {
-                return i;
+        int missing = -1;
+        int j = 1;
+        for (int i = 0; i < nes.size(); i++) {
+            if (!nes.contains(j)) {
+                missing = j;
+            } else {
+                j++;
             }
         }
-        return -1;
+        if (missing == -1 && j == nes.size() - 1) {
+            missing = nes.size() + 1;
+        } else {
+            missing = j;
+        }
+        int[] arr = new int[2];
+        arr[0] = nums[dublicate - 1];
+        arr[1] = missing;
+        return arr;
     }
 }
