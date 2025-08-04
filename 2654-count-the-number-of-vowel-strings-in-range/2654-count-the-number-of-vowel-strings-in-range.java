@@ -1,13 +1,13 @@
 class Solution {
     public int vowelStrings(String[] words, int left, int right) {
-        int vovels = 0;
+        int vowels = 0;
         for (int i = left; i <= right; i++) {
             String word = words[i];
             if (isVowel(word.charAt(0)) && isVowel(word.charAt(word.length() - 1))) {
-                vovels++;
+                vowels++;
             }
         }
-        return vovels;
+        return vowels;
     }
 
     private static boolean isVowel(char c) {
