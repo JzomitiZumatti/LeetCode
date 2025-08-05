@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Backtracking
 |  |
 | ------- |
