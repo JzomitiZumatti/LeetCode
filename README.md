@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
