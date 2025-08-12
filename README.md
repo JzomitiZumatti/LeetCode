@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3194-find-words-containing-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
