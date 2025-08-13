@@ -1,19 +1,17 @@
 class Solution {
     public int[] transformArray(int[] nums) {
-        LinkedList<Integer> sd = new LinkedList<>();
+        int[] res = new int[nums.length];
+        int i = 0;
         for (int n : nums) {
             if (n % 2 == 0) {
-                sd.addFirst(0);
+                res[i] = 0;
             } else {
-                sd.addLast(1);
+                res[i] = 1;
             }
+            i++;
         }
-        int[] res = new int[nums.length];
-        int counter = 0;
-        for (Integer s : sd) {
-            res[counter] = s;
-            counter++;
-        }
+        Arrays.sort(res);
+
         return  res;
     }
 }
