@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/JzomitiZumatti/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/JzomitiZumatti/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3582-find-indices-of-stable-mountains](https://github.com/JzomitiZumatti/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
