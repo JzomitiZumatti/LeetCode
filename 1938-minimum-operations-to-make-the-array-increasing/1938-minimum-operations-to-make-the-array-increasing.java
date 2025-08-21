@@ -4,12 +4,8 @@ class Solution {
         if (nums.length == 1 ) return counter;
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] <= nums[i - 1]) {
-                int cur = nums[i];
-                while (cur <= nums[i - 1]) {
-                    cur++;
-                    counter++;
-                }
-                nums[i] = cur;
+                counter += (nums[i - 1] + 1) - nums[i];
+                nums[i] = nums[i - 1] + 1;
             }
         }
         return counter;
