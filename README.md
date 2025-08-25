@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/JzomitiZumatti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3194-find-words-containing-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
