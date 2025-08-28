@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JzomitiZumatti/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JzomitiZumatti/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
