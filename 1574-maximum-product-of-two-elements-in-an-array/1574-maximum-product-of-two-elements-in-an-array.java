@@ -1,6 +1,19 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        Arrays.sort(nums);
-        return (nums[nums.length - 1] - 1) * (nums[nums.length - 2] - 1);
+        int maxLeft = Integer.MIN_VALUE;
+        int maxLeftIndex = -1;
+        int maxRight = Integer.MIN_VALUE;
+        int maxRightIndex = -1;
+        for (int i = 0, j = nums.length - 1; i < nums.length && j >= 0; i++, j--) {
+            if (maxLeft < nums[i] && i != maxRightIndex) {
+                maxLeft = nums[i];
+                maxLeftIndex = i;
+            }
+            if (maxRight < nums[j] && j != maxLeftIndex) {
+                maxRight = nums[j];
+                maxRightIndex = j;
+            }
+        }
+        return (maxLeft - 1) * (maxRight - 1);
     }
 }
