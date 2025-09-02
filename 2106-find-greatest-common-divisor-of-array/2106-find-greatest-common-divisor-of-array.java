@@ -9,7 +9,7 @@ class Solution {
 
         int res = -1;
 
-        for (int i = 1; i <= 1000; i++) {
+        for (int i = 1; i <= max; i++) {
             if (min % i == 0 && max % i == 0) {
                 res = Math.max(res, i);
             }
