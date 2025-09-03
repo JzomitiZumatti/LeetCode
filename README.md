@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/JzomitiZumatti/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JzomitiZumatti/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JzomitiZumatti/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0645-set-mismatch) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/JzomitiZumatti/LeetCode/tree/master/1137-height-checker) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
