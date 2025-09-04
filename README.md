@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0645-set-mismatch) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JzomitiZumatti/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
