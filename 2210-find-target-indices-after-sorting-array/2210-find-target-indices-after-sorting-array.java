@@ -1,15 +1,22 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
         List<Integer> res = new ArrayList<>();
-        Arrays.sort(nums);
+        PriorityQueue<Integer> s = new PriorityQueue<>();
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == target) {
+        for (int n : nums) {
+            s.add(n);
+        }
+
+        int i = 0;
+        while (!s.isEmpty()) {
+            int temp = s.poll();
+            if (temp == target) {
                 res.add(i);
             }
-
-            if (nums[i] > target) break;
+            if (temp > target) break;
+            i++;
         }
+
         return res;
     }
 }
