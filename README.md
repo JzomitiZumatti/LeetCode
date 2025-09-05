@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JzomitiZumatti/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
