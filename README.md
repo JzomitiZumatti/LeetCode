@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/JzomitiZumatti/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1944-truncate-sentence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
 | [1755-defuse-the-bomb](https://github.com/JzomitiZumatti/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1769-get-maximum-in-generated-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
