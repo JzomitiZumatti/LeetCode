@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2386-min-max-game) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
