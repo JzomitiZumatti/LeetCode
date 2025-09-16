@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/JzomitiZumatti/LeetCode/tree/master/0649-dota2-senate) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0978-valid-mountain-array) |
