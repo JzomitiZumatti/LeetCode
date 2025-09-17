@@ -1,13 +1,13 @@
 class Solution {
     public int[] replaceElements(int[] arr) {
-        for (int i = 0; i < arr.length - 1; i++) {
+        int[] arrCopy = Arrays.copyOf(arr, arr.length);
+        for (int i = arr.length - 1; i >= 0; i--) {
             int max = Integer.MIN_VALUE;
-            for (int j = i + 1; j < arr.length; j++) {
-                max = Math.max(max, arr[j]);
+            for (int j = arr.length - 1; j > i; j--) {
+                max = Math.max(max, arrCopy[j]);
             }
-            arr[i] = max;
+            arr[i] = i == arr.length - 1 ? -1 : max;
         }
-        arr[arr.length - 1] = -1;
         return arr;
     }
 }
