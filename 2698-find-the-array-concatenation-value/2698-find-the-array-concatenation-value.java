@@ -4,9 +4,10 @@ class Solution {
         int left = 0;
         int right = nums.length - 1;
         while (left < right) {
-            String str = String.valueOf(nums[left]) +
-                    nums[right];
-            res += Integer.parseInt(str);
+            StringBuilder str = new StringBuilder();
+            str.append(nums[left]);
+            str.append(nums[right]);
+            res += Integer.parseInt(str.toString());
             left++;
             right--;
         }
