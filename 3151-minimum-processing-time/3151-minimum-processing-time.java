@@ -4,23 +4,18 @@ class Solution {
         List<Integer> tasksList = new ArrayList<>(tasks);
         Collections.sort(processorTimeList);
         Collections.sort(tasksList);
-
         int del = tasks.size() / processorTime.size();
         boolean flag = processorTime.size() % 2 != 0;
-        int counter = 1;
+        int counter = tasksList.size();
         int max = Integer.MIN_VALUE;
+        
         for (Integer integer : processorTimeList) {
-            int c = 0;
-            for (int j = tasksList.size() - counter; j >= 0; j--) {
-                int num = integer + tasksList.get(j);
-                max = Math.max(max, num);
-                counter++;
-                c++;
-                if (!flag && c == del) break;
-                if (flag && c == del + (tasks.size() % processorTime.size())) {
-                    flag = false;
-                    break;
-                }
+            int num = integer + tasksList.get(counter - 1);
+            max = Math.max(max, num);
+            if (!flag) counter = counter - del;
+            if (flag) {
+                counter -= del + (tasks.size() % processorTime.size());
+                flag = false;
             }
         }
         return max;
