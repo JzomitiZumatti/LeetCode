@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
