@@ -1,8 +1,8 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
+        if (rowIndex == 0) return List.of(1);
         List<List<Integer>> dp = new ArrayList<>();
         dp.add(List.of(1));
-        dp.add(List.of(1, 1));
         while (dp.size() <= rowIndex) {
             List<Integer> list = new ArrayList<>();
             list.add(dp.getLast().getFirst());
