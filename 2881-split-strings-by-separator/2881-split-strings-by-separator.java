@@ -4,26 +4,24 @@ class Solution {
         StringBuilder stringBuilder = new StringBuilder();
         for (String word : words) {
             int i = 0;
-            if (!stringBuilder.isEmpty()) {
-                list.add(stringBuilder.toString());
-                stringBuilder.setLength(0);
-            }
+            flush(stringBuilder, list);
             while (i < word.length()) {
                 if (word.charAt(i) != separator) {
                     stringBuilder.append(word.charAt(i));
                 } else {
-                    if (!stringBuilder.isEmpty()) {
-                        list.add(stringBuilder.toString());
-                        stringBuilder.setLength(0);
-                    }
+                    flush(stringBuilder, list);
                 }
                 i++;
             }
         }
-        if (!stringBuilder.isEmpty()) {
-            list.add(stringBuilder.toString());
-            stringBuilder.setLength(0);
-        }
+        flush(stringBuilder, list);
         return list;
+    }
+
+    private static void flush(StringBuilder sb, List<String> list) {
+        if (!sb.isEmpty()) {
+            list.add(sb.toString());
+            sb.setLength(0);
+        }
     }
 }
