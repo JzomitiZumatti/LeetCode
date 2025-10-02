@@ -4,9 +4,14 @@ class Solution {
         int i = 0;
         while (i < A.length) {
             int counter = 0;
+            Map<Integer, Integer> numFreq = new HashMap<>();
             for (int j = 0; j <= i; j++) {
-                for (int k = 0; k <= i; k++) {
-                    if (A[j] == B[k]) counter++;
+                numFreq.put(A[j], numFreq.getOrDefault(A[j], 0) + 1);
+                numFreq.put(B[j], numFreq.getOrDefault(B[j], 0) + 1);
+            }
+            for (Map.Entry<Integer, Integer> entry : numFreq.entrySet()) {
+                if (entry.getValue() == 2) {
+                    counter++;
                 }
             }
             prefixCommon[i] = counter;
