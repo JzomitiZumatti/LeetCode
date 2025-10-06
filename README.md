@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JzomitiZumatti/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/JzomitiZumatti/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/JzomitiZumatti/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/JzomitiZumatti/LeetCode/tree/master/0506-relative-ranks) |
+| [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1127-last-stone-weight](https://github.com/JzomitiZumatti/LeetCode/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -745,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -819,4 +825,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
