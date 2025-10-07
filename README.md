@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
+| [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/JzomitiZumatti/LeetCode/tree/master/1127-last-stone-weight) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/JzomitiZumatti/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1217-relative-sort-array) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 ## Prefix Sum
 |  |
