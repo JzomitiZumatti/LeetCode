@@ -2,7 +2,7 @@ class Solution {
     public boolean hasIncreasingSubarrays(List<Integer> nums, int k) {
         if (k == 1 && nums.size() >= 2) return true;
 
-        List<Integer> startPoints = new ArrayList<>();
+        Set<Integer> startPoints = new HashSet<>();
 
         for (int start = 0; start <= nums.size() - k; start++) {
             boolean isValid = true;
@@ -16,15 +16,8 @@ class Solution {
 
             if (isValid) {
                 startPoints.add(start);
+                if (startPoints.contains(start - k)) return true;
             }
-        }
-
-        Collections.sort(startPoints);
-
-        int i = 0;
-        while (i < startPoints.size()) {
-            if (startPoints.contains(startPoints.get(i) + k) )return true;
-            i++;
         }
         return false;
     }
