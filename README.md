@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1448-maximum-69-number) |
+| [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2383-add-two-integers) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0645-set-mismatch) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
