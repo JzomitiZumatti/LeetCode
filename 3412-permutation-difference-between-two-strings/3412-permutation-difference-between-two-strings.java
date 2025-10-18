@@ -1,16 +1,16 @@
 class Solution {
     public int findPermutationDifference(String s, String t) {
-        Map<Character, Integer> sCharPos = new HashMap<>();
-        Map<Character, Integer> tCharPos = new HashMap<>();
+        int permDif = 0;
+        
         for (int i = 0; i < s.length(); i++) {
-            sCharPos.put(s.charAt(i), i);
-            tCharPos.put(t.charAt(i), i);
+            for (int j = 0; j < t.length(); j++) {
+                if (s.charAt(i) == t.charAt(j)) {
+                    permDif += Math.abs(i - j);
+                    break;
+                }
+            }
         }
 
-        int permDif = 0;
-        for (Character c : sCharPos.keySet()) {
-            permDif += Math.abs(sCharPos.get(c) - tCharPos.get(c));
-        }
         return permDif;
     }
 }
