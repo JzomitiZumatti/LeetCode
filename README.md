@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
 | [2476-check-distances-between-same-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/2476-check-distances-between-same-letters) |
