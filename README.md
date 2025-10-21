@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2752-sum-multiples](https://github.com/JzomitiZumatti/LeetCode/tree/master/2752-sum-multiples) |
+| [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/JzomitiZumatti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
