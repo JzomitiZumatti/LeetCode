@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JzomitiZumatti/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JzomitiZumatti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/JzomitiZumatti/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/JzomitiZumatti/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
