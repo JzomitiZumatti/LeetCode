@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/JzomitiZumatti/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/0742-to-lower-case) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
