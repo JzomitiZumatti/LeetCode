@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
