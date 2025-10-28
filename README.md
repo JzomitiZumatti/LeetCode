@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/JzomitiZumatti/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
