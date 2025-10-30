@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/JzomitiZumatti/LeetCode/tree/master/2752-sum-multiples) |
 | [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3199-distribute-candies-among-children-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/JzomitiZumatti/LeetCode/tree/master/3221-find-the-peaks) |
 ## Ordered Set
 |  |
@@ -972,5 +974,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
