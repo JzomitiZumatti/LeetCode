@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/JzomitiZumatti/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/JzomitiZumatti/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
