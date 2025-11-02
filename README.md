@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2350-find-closest-number-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JzomitiZumatti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2386-min-max-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
