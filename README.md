@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0981-delete-columns-to-make-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
