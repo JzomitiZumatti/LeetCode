@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2594-count-pairs-of-similar-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
