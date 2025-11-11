@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JzomitiZumatti/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/JzomitiZumatti/LeetCode/tree/master/0495-teemo-attacking) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/JzomitiZumatti/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
+| [0474-ones-and-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
