@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1651-shuffle-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JzomitiZumatti/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JzomitiZumatti/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0204-count-primes) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
