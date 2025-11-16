@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1965-sum-of-digits-in-base-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
