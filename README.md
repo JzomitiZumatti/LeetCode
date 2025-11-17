@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/JzomitiZumatti/LeetCode/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/JzomitiZumatti/LeetCode/tree/master/0979-di-string-match) |
