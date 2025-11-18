@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JzomitiZumatti/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
