@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3723-sum-of-good-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
