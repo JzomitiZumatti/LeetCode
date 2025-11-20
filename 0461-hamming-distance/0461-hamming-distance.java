@@ -4,7 +4,7 @@ class Solution {
         int diff = x ^ y;
         String bit = Integer.toBinaryString(diff);
         for (int i = 0; i < bit.length(); i++) {
-            if (bit.charAt(i) == '1') counter++;
+            counter += Integer.parseInt(String.valueOf(bit.charAt(i)));
         }
         return counter;
     }
