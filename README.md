@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1448-maximum-69-number) |
+| [1518-water-bottles](https://github.com/JzomitiZumatti/LeetCode/tree/master/1518-water-bottles) |
 | [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/JzomitiZumatti/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/JzomitiZumatti/LeetCode/tree/master/1518-water-bottles) |
 | [1708-design-parking-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/1708-design-parking-system) |
 | [1769-get-maximum-in-generated-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
