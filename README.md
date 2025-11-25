@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JzomitiZumatti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JzomitiZumatti/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
