@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/JzomitiZumatti/LeetCode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/JzomitiZumatti/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/JzomitiZumatti/LeetCode/tree/master/1518-water-bottles) |
 | [1708-design-parking-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/1708-design-parking-system) |
