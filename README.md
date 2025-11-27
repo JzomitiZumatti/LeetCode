@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/0724-find-pivot-index) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/JzomitiZumatti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
