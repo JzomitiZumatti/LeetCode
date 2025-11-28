@@ -1,25 +1,16 @@
 class Solution {
     public int furthestDistanceFromOrigin(String moves) {
-        Map<Character, Integer> characterFreq = new HashMap<>();
+        int lCounter = 0;
+        int rCounter = 0;
         for (int i = 0; i < moves.length(); i++) {
-            characterFreq.put(moves.charAt(i), characterFreq.getOrDefault(moves.charAt(i), 0) + 1);
+            if (moves.charAt(i) == 'L') lCounter++;
+            if (moves.charAt(i) == 'R')  rCounter++;
         }
-        int max = 0;
-        char c = 'R';
-        for (Map.Entry<Character, Integer> entry : characterFreq.entrySet()) {
-            if ((entry.getKey() == 'L' || entry.getKey() == 'R') && max < entry.getValue()) {
-                max = entry.getValue();
-                c = entry.getKey();
-            }
-        }
+        char c = lCounter > rCounter ? 'L' : 'R';
         int counter = 0;
         for (int i = 0; i < moves.length(); i++) {
-            if (moves.charAt(i) == 'L') counter--;
-            else if (moves.charAt(i) == 'R') counter++;
-            else {
-                if (c == 'L') counter--;
-                else counter++;
-            }
+            counter = moves.charAt(i) == 'L' ? counter - 1 : moves.charAt(i) == 'R' ? counter + 1 :
+                    c == 'L' ? counter - 1 : counter + 1;
         }
         return Math.abs(counter);
     }
