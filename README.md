@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/JzomitiZumatti/LeetCode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/JzomitiZumatti/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2383-add-two-integers) |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/JzomitiZumatti/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
