@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/JzomitiZumatti/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3612-process-string-with-special-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3636-check-balanced-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
