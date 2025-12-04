@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JzomitiZumatti/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
