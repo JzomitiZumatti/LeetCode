@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/JzomitiZumatti/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JzomitiZumatti/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
