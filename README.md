@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2717-semi-ordered-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/2717-semi-ordered-permutation) |
 | [2727-number-of-senior-citizens](https://github.com/JzomitiZumatti/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JzomitiZumatti/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [2717-semi-ordered-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/2717-semi-ordered-permutation) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
