@@ -956,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
