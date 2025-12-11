@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JzomitiZumatti/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JzomitiZumatti/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
