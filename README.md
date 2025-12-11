@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1764-maximum-repeating-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1068,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -1116,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/JzomitiZumatti/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
