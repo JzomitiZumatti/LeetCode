@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3723-sum-of-good-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JzomitiZumatti/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
