@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2159-two-out-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2159-two-out-of-three) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/JzomitiZumatti/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2169-simple-bank-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/JzomitiZumatti/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
