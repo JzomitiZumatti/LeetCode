@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JzomitiZumatti/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/JzomitiZumatti/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
