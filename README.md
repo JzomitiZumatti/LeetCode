@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2347-best-poker-hand](https://github.com/JzomitiZumatti/LeetCode/tree/master/2347-best-poker-hand) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
@@ -1099,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JzomitiZumatti/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
