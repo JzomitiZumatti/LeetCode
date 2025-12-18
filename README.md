@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/JzomitiZumatti/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JzomitiZumatti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JzomitiZumatti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -1180,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/JzomitiZumatti/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JzomitiZumatti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
