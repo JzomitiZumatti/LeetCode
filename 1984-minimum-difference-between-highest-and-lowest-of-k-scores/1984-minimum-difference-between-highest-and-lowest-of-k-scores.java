@@ -10,7 +10,6 @@ class Solution {
                 arr[l] = nums[j];
                 l++;
             }
-            Arrays.sort(arr);
             min = Math.min(min, arr[arr.length - 1] - arr[0]);
             i++;
         }
