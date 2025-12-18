@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2159-two-out-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2159-two-out-of-three) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/JzomitiZumatti/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2169-simple-bank-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/2169-simple-bank-system) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/JzomitiZumatti/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
