@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2159-two-out-of-three) |
 | [2169-simple-bank-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/2169-simple-bank-system) |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JzomitiZumatti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
