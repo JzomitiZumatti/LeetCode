@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/JzomitiZumatti/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3612-process-string-with-special-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3636-check-balanced-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3636-check-balanced-string) |
+| [3707-equal-score-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3707-equal-score-substrings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JzomitiZumatti/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -1229,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3707-equal-score-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3707-equal-score-substrings) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Enumeration
