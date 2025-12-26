@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/JzomitiZumatti/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JzomitiZumatti/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
