@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2299-strong-password-checker-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2299-strong-password-checker-ii) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
