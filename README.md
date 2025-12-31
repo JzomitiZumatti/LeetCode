@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/JzomitiZumatti/LeetCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
