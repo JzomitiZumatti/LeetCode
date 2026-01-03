@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/JzomitiZumatti/LeetCode/tree/master/2752-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/JzomitiZumatti/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
