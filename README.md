@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3817-maximum-containers-on-a-ship](https://github.com/JzomitiZumatti/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
