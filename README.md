@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/JzomitiZumatti/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/JzomitiZumatti/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/JzomitiZumatti/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -1261,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
+| [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Prefix Sum
 |  |
 | ------- |
