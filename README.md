@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1764-maximum-repeating-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/JzomitiZumatti/LeetCode/tree/master/1751-slowest-key) |
 | [1755-defuse-the-bomb](https://github.com/JzomitiZumatti/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1769-get-maximum-in-generated-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/JzomitiZumatti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
