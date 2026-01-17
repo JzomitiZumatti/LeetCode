@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/JzomitiZumatti/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3019-number-of-changing-keys](https://github.com/JzomitiZumatti/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
