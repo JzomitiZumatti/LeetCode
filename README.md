@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/JzomitiZumatti/LeetCode/tree/master/1390-four-divisors) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JzomitiZumatti/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/JzomitiZumatti/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/JzomitiZumatti/LeetCode/tree/master/1518-water-bottles) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/JzomitiZumatti/LeetCode/tree/master/1560-most-visited-sector-in-a-circular-track) |
