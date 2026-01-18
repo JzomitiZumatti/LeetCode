@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1894-merge-strings-alternately](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/JzomitiZumatti/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
