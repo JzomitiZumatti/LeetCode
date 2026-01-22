@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JzomitiZumatti/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JzomitiZumatti/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1218,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JzomitiZumatti/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1341,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
 | ------- |
@@ -1399,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1407,4 +1413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/JzomitiZumatti/LeetCode/tree/master/0278-first-bad-version) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
