@@ -1244,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/JzomitiZumatti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JzomitiZumatti/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
@@ -1401,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/JzomitiZumatti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
