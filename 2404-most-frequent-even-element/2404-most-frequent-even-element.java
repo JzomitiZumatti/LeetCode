@@ -14,7 +14,6 @@ class Solution {
                         (e1, e2) -> e1,
                         LinkedHashMap::new
                 ));
-        System.out.println(sortedMapDescending);
         int max = -1;
         int min = Integer.MAX_VALUE;
         for (Map.Entry<Integer, Integer> entry : sortedMapDescending.entrySet()) {
