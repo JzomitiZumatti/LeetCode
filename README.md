@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3637-trionic-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3697-compute-decimal-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3697-compute-decimal-representation) |
