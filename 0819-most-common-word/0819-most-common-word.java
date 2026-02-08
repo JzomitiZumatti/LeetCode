@@ -31,7 +31,6 @@ class Solution {
                         (oldValue, newValue) -> oldValue,
                         LinkedHashMap::new
                 ));
-        System.out.println(sortedMapDesc);
         for (Map.Entry<String, Integer> entry : sortedMapDesc.entrySet()) {
             if (!bannedC.contains(entry.getKey())) return entry.getKey();
         }
