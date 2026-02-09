@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/JzomitiZumatti/LeetCode/tree/master/0830-positions-of-large-groups) |
 | [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/JzomitiZumatti/LeetCode/tree/master/0851-goat-latin) |
+| [0859-buddy-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0859-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
