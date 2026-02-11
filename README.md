@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JzomitiZumatti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JzomitiZumatti/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
