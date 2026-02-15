@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/JzomitiZumatti/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JzomitiZumatti/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/JzomitiZumatti/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1241-decompress-run-length-encoded-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/JzomitiZumatti/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Prefix Sum
 |  |
