@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2404-most-frequent-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/JzomitiZumatti/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
@@ -1183,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/JzomitiZumatti/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
