@@ -13,13 +13,15 @@ class Solution {
         char c = s.charAt(i);
         if (Character.isDigit(c)) {
             stringBuilder.append(c);
+            dfs(s, i + 1, stringBuilder, res);
+            stringBuilder.deleteCharAt(stringBuilder.length() - 1);
         } else {
             stringBuilder.append(String.valueOf(c).toLowerCase());
             dfs(s, i + 1, stringBuilder, res);
             stringBuilder.deleteCharAt(stringBuilder.length() - 1);
             stringBuilder.append(String.valueOf(c).toUpperCase());
+            dfs(s, i + 1, stringBuilder, res);
+            stringBuilder.deleteCharAt(stringBuilder.length() - 1);
         }
-        dfs(s, i + 1, stringBuilder, res);
-        stringBuilder.deleteCharAt(stringBuilder.length() - 1);
     }
 }
