@@ -1168,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/JzomitiZumatti/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JzomitiZumatti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/JzomitiZumatti/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0476-number-complement) |
@@ -1377,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0784-letter-case-permutation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
