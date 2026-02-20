@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2899-last-visited-integers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
@@ -1203,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-number-of-even-and-odd-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
