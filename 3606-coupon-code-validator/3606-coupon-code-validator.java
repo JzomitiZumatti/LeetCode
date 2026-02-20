@@ -14,10 +14,7 @@ class Solution {
         for (int i = 0; i < code.length; i++) {
             if (isAllowedChar(code[i]) && catPriority.containsKey(businessLine[i]) && isActive[i]) {
                 int n = catPriority.get(businessLine[i]);
-                if (n == 0) lists.get(0).add(code[i]);
-                else if (n == 1) lists.get(1).add(code[i]);
-                else if (n == 2) lists.get(2).add(code[i]);
-                else lists.get(3).add(code[i]);
+                lists.get(n).add(code[i]);
             }
         }
         for (List<String> list : lists) {
