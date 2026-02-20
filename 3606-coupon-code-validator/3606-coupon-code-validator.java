@@ -7,20 +7,21 @@ class Solution {
         catPriority.put("restaurant", 3);
         List<String> res = new ArrayList<>();
         List<List<String>> lists = new ArrayList<>();
-        int j = 0;
-        while (j <= 3) {
-            List<String> list = new ArrayList<>();
-            for (int i = 0; i < code.length; i++) {
-                if (isAllowedChar(code[i]) && catPriority.containsKey(businessLine[i]) &&
-                        catPriority.get(businessLine[i]) == j && isActive[i]) {
-                    list.add(code[i]);
-                }
+        lists.add(new ArrayList<>());
+        lists.add(new ArrayList<>());
+        lists.add(new ArrayList<>());
+        lists.add(new ArrayList<>());
+        for (int i = 0; i < code.length; i++) {
+            if (isAllowedChar(code[i]) && catPriority.containsKey(businessLine[i]) && isActive[i]) {
+                int n = catPriority.get(businessLine[i]);
+                if (n == 0) lists.get(0).add(code[i]);
+                else if (n == 1) lists.get(1).add(code[i]);
+                else if (n == 2) lists.get(2).add(code[i]);
+                else lists.get(3).add(code[i]);
             }
-            list.sort(Comparator.naturalOrder());
-            lists.add(list);
-            j++;
         }
         for (List<String> list : lists) {
+            list.sort(Comparator.naturalOrder());
             res.addAll(list);
         }
         return res;
@@ -28,20 +29,10 @@ class Solution {
 
     private static boolean isAllowedChar(String s) {
         if (s.isEmpty()) return false;
-        Set<Integer> allowedChars = new HashSet<>();
-        for (int i = 48; i <= 57; i++) {
-            allowedChars.add(i);
-        }
-        for (int i = 65; i <= 90; i++) {
-            allowedChars.add(i);
-        }
-        allowedChars.add(95);
-        for (int i = 97; i <= 122; i++) {
-            allowedChars.add(i);
-        }
         for (int i = 0; i < s.length(); i++) {
-            int ascii = s.charAt(i);
-            if (!allowedChars.contains(ascii)) return false;
+            char c = s.charAt(i);
+            if (Character.isLetterOrDigit(c) || c == '_') continue;
+            else return false;
         }
         return true;
     }
