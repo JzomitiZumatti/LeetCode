@@ -31,8 +31,9 @@ class Solution {
         if (s.isEmpty()) return false;
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
-            if (Character.isLetterOrDigit(c) || c == '_') continue;
-            else return false;
+            if (!Character.isLetterOrDigit(c) && c != '_') {
+                return false;
+            }
         }
         return true;
     }
