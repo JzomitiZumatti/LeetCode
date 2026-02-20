@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JzomitiZumatti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JzomitiZumatti/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -1374,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
