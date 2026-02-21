@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [1829-maximum-xor-for-each-query](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/JzomitiZumatti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1829-maximum-xor-for-each-query](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2159-two-out-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2159-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -1426,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1829-maximum-xor-for-each-query](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/JzomitiZumatti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
