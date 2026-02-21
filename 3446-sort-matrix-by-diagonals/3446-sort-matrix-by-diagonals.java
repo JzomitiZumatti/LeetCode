@@ -18,7 +18,6 @@ class Solution {
             for (int j = 0; j < grid[i].length; j++) {
                 int n =  i - j;
                 grid[i][j] = difLsit.get(n).get(difSize.get(n));
-                System.out.println(difSize.get(n) - 1);
                 difSize.put(n, difSize.get(n) - 1);
             }
         }
