@@ -1,67 +1,27 @@
 class Solution {
     public int[][] sortMatrix(int[][] grid) {
-        List<List<Integer>> leftTriangle = new ArrayList<>();
-        List<List<Integer>> rightTriangle = new ArrayList<>();
-        List<Integer> mid = new ArrayList<>();
-        int col = 0;
-        for (int[] ints : grid) {
-            mid.add(ints[col]);
-            col++;
-        }
-        mid.sort(Comparator.reverseOrder());
-
-        int row = 1;
-        while (row < grid.length - 1) {
-            List<Integer> list = new ArrayList<>();
-            int i = row;
-            for (int k = 0; k < grid.length - row; k++) {
-                list.add(grid[i][k]);
-                i++;
-            }
-            row++;
-            list.sort(Comparator.reverseOrder());
-            leftTriangle.add(list);
-        }
-
-        col = 1;
-        while (col < grid.length - 1) {
-            List<Integer> list = new ArrayList<>();
-            int i = col;
-            for (int k = 0; k < grid.length - col; k++) {
-                list.add(grid[k][i]);
-                i++;
-            }
-            col++;
-            list.sort(Comparator.naturalOrder());
-            rightTriangle.add(list);
-        }
-
-        col = 0;
+        Map<Integer, List<Integer>> difLsit = new HashMap<>();
         for (int i = 0; i < grid.length; i++) {
-            grid[col][i] = mid.get(i);
-            col++;
-        }
-
-        row = 1;
-        while (row < grid.length - 1) {
-            int i = row;
-            for (int k = 0; k < grid.length - row; k++) {
-                grid[i][k] = leftTriangle.get(row - 1).get(k);
-                i++;
+            for (int j = 0; j < grid[i].length; j++) {
+                difLsit.computeIfAbsent(i - j, k -> new ArrayList<>()).add(grid[i][j]);
             }
-            row++;
         }
-
-        col = 1;
-        while (col < grid.length - 1) {
-            int i = col;
-            for (int k = 0; k < grid.length - col; k++) {
-                grid[k][i] = rightTriangle.get(col - 1).get(k);
-                i++;
+        for (Map.Entry<Integer, List<Integer>> entry : difLsit.entrySet()) {
+            if (entry.getKey() >= 0) entry.getValue().sort(Comparator.naturalOrder());
+            else entry.getValue().sort(Comparator.reverseOrder());
+        }
+        Map<Integer, Integer> difSize = new HashMap<>();
+        for (Map.Entry<Integer, List<Integer>> entry : difLsit.entrySet()) {
+            difSize.put(entry.getKey(), entry.getValue().size() - 1);
+        }
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[i].length; j++) {
+                int n =  i - j;
+                grid[i][j] = difLsit.get(n).get(difSize.get(n));
+                System.out.println(difSize.get(n) - 1);
+                difSize.put(n, difSize.get(n) - 1);
             }
-            col++;
         }
-
         return grid;
     }
 }
