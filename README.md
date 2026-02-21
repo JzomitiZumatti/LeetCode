@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1448-maximum-69-number) |
 | [1518-water-bottles](https://github.com/JzomitiZumatti/LeetCode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/JzomitiZumatti/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/JzomitiZumatti/LeetCode/tree/master/1560-most-visited-sector-in-a-circular-track) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/JzomitiZumatti/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1371,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Matrix
 |  |
 | ------- |
