@@ -1,6 +1,6 @@
 class Solution {
     public int[] getMaximumXor(int[] nums, int maximumBit) {
-        int max = (int) (Math.pow(2, maximumBit) - 1);
+        int max = (1 << maximumBit) - 1;
         int[] arr = new int[nums.length];
         int previous = 0;
         int current;
@@ -9,7 +9,7 @@ class Solution {
             current = previous ^ num;
             previous = current;
             if (current == max) arr[j] = 0;
-            else arr[j] = max - current;
+            else arr[j] = max ^ current;
             j--;
         }
         return arr;
