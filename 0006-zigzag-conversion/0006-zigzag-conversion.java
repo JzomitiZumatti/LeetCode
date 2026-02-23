@@ -9,26 +9,12 @@ class Solution {
         boolean up = true;
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
-            if (up) {
-                if (currentRow == numRows - 2) {
-                    rows.get(currentRow).add(c);
-                    currentRow += 1;
-                    up = false;
-                } else {
-                    rows.get(currentRow).add(c);
-                    currentRow++;
-                }
-            } else {
-                if (currentRow == 1) {
-                    rows.get(currentRow).add(c);
-                    currentRow -= 1;
-                    up = true;
-                } else {
-                    rows.get(currentRow).add(c);
-                    currentRow--;
-                }
-            }
+            rows.get(currentRow).add(c);
+            if (up) currentRow++;
+            else currentRow--;
+            up = currentRow == 0 || currentRow != numRows - 1 && up;
         }
+        System.out.println(rows);
         StringBuilder stringBuilder = new StringBuilder();
         for (List<Character> row : rows) {
             for (Character c : row) {
