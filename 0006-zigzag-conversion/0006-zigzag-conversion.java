@@ -14,7 +14,6 @@ class Solution {
             else currentRow--;
             up = currentRow == 0 || currentRow != numRows - 1 && up;
         }
-        System.out.println(rows);
         StringBuilder stringBuilder = new StringBuilder();
         for (List<Character> row : rows) {
             for (Character c : row) {
