@@ -1,14 +1,18 @@
-import java.math.BigInteger;
 class Solution {
     public int numSteps(String s) {
         int counter = 0;
-        BigInteger n = new BigInteger(s, 2);
-        while (n.compareTo(BigInteger.ONE) > 0) {
-            boolean isEven = n.mod(BigInteger.TWO).equals(BigInteger.ZERO);
-            if (isEven) n = n.divide(BigInteger.TWO);
-            else n = n.add(BigInteger.ONE);
-            counter++;
+        int carry = 0;
+        for (int i = s.length() - 1; i > 0; i--) {
+            int n = s.charAt(i) - '0';
+            if (n + carry  == 1) {
+                counter += 2;
+                carry = 1;
+            } else if (n + carry == 2) {
+                counter += 1;
+            } else if (n + carry == 0) {
+                counter++;
+            }
         }
-        return counter;
+        return counter + carry;
     }
 }
