@@ -6,9 +6,9 @@ class Solution {
         while (i < n) {
             int counter = 1;
             StringBuilder stringBuilder = new StringBuilder();
-            int prev = dp[i -1].charAt(0) - '0';
+            char prev = dp[i -1].charAt(0);
             for (int j = 1; j < dp[i - 1].length(); j++) {
-                int current = dp[i -1].charAt(j) - '0';
+                char current = dp[i -1].charAt(j);
                 if (prev == current) counter++;
                 else {
                     stringBuilder.append(counter).append(prev);
@@ -18,6 +18,7 @@ class Solution {
             }
             stringBuilder.append(counter).append(prev);
             dp[i] = stringBuilder.toString();
+            System.out.println(dp[i]);
             i++;
         }
         return dp[n -1];
