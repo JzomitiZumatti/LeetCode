@@ -16,8 +16,7 @@ class Solution {
                     prev = current;
                 }
             }
-            boolean lastMissed = prev == Integer.parseInt(String.valueOf(dp[i - 1].charAt(dp[i - 1].length() - 1)));
-            if (stringBuilder.isEmpty() || lastMissed) stringBuilder.append(counter).append(prev);
+            stringBuilder.append(counter).append(prev);
             dp[i] = stringBuilder.toString();
             i++;
         }
