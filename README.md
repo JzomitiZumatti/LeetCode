@@ -1431,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/JzomitiZumatti/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/JzomitiZumatti/LeetCode/tree/master/0077-combinations) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0784-letter-case-permutation) |
