@@ -6,20 +6,22 @@ class Solution {
         }
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> path = new ArrayList<>();
-        dfs(k, nums, res, path);
+        int start = 0;
+        int end = nums.length - 1;
+        dfs(k, start, end, nums, res, path);
         return res;
     }
 
-    private static void dfs(int k, int[] nums, List<List<Integer>> res, List<Integer> path) {
+    private static void dfs(int k, int start, int end, int[] nums, List<List<Integer>> res, List<Integer> path) {
         if (path.size() == k) {
             res.add(new ArrayList<>(path));
             return;
         }
 
-        for (int num : nums) {
-            if (!path.isEmpty() && num <= path.getLast()) continue;
-            path.add(num);
-            dfs(k, nums, res, path);
+        for (int i = start; i <= end; i++) {
+            path.add(nums[i]);
+            start++;
+            dfs(k, start, end, nums, res, path);
             path.removeLast();
         }
     }
