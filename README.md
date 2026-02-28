@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/JzomitiZumatti/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JzomitiZumatti/LeetCode/tree/master/0057-insert-interval) |
@@ -1247,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/JzomitiZumatti/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0784-letter-case-permutation) |
