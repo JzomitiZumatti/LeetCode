@@ -17,12 +17,10 @@ class Solution {
         }
 
         for (int num : nums) {
-            if (!path.isEmpty() && num < path.getLast()) continue;
-            if (!path.contains(num)) {
-                path.add(num);
-                dfs(k, nums, res, path);
-                path.removeLast();
-            }
+            if (!path.isEmpty() && num <= path.getLast()) continue;
+            path.add(num);
+            dfs(k, nums, res, path);
+            path.removeLast();
         }
     }
 }
