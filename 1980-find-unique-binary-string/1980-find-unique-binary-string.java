@@ -3,14 +3,10 @@ class Solution {
         List<String> unique = new ArrayList<>();
         StringBuilder path = new StringBuilder();
         sd(nums, unique, path);
-        boolean[] isPresent = new boolean[unique.size()];
-        for (String num : nums) {
-            for (int i = 0; i < unique.size(); i++) {
-                if (num.equals(unique.get(i))) isPresent[i] = true;
-            }
-        }
-        for (int i = 0; i < isPresent.length; i++) {
-            if (!isPresent[i]) return unique.get(i);
+        Set<String> u = new HashSet<>();
+        Collections.addAll(u, nums);
+        for (String s : unique) {
+            if (!u.contains(s)) return s;
         }
         return "";
     }
