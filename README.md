@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
@@ -1497,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2485-find-the-pivot-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JzomitiZumatti/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
