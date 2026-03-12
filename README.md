@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/0742-to-lower-case) |
 | [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0784-letter-case-permutation) |
+| [0791-custom-sort-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0859-buddy-strings) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JzomitiZumatti/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
