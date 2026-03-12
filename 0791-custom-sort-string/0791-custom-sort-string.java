@@ -6,19 +6,16 @@ class Solution {
             mustHave.add(order.charAt(i));
         }
 
-        int[] letterFreq = new int[order.length()];
-        boolean flag = true;
-        for (int i = 0; i < order.length(); i++) {
-            char c = order.charAt(i);
-            for (int j = 0; j < s.length(); j++) {
-                char cc = s.charAt(j);
-                if (cc == c) letterFreq[i]++;
-                else if (!mustHave.contains(cc) && flag) res.append(cc);
-            }
-            flag = false;
+        Map<Character, Integer> letterFreq = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (mustHave.contains(c)) letterFreq.put(c, letterFreq.getOrDefault(c, 0) + 1);
+            else res.append(c);
         }
-        for (int i = letterFreq.length - 1; i >= 0; i--) {
-            res.repeat(order.charAt(i), letterFreq[i]);
+
+        for (int i = order.length() - 1; i >= 0; i--) {
+            char c = order.charAt(i);
+            if (letterFreq.containsKey(c)) res.repeat(c, letterFreq.get(c));
         }
         return res.reverse().toString();
     }
