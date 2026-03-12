@@ -1,22 +1,23 @@
 class Solution {
     public String customSortString(String order, String s) {
+        int[] letterFreq = new int[26];
         StringBuilder res = new StringBuilder();
-        Set<Character> mustHave = new HashSet<>();
-        for (int i = 0; i < order.length(); i++) {
-            mustHave.add(order.charAt(i));
-        }
 
-        Map<Character, Integer> letterFreq = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (mustHave.contains(c)) letterFreq.put(c, letterFreq.getOrDefault(c, 0) + 1);
-            else res.append(c);
+            int ascii = s.charAt(i) - 'a';
+            letterFreq[ascii]++;
         }
-
-        for (int i = order.length() - 1; i >= 0; i--) {
+        for (int i = 0; i < order.length(); i++) {
             char c = order.charAt(i);
-            if (letterFreq.containsKey(c)) res.repeat(c, letterFreq.get(c));
+            int ascii = c - 'a';
+            res.repeat(c, letterFreq[ascii]);
+            letterFreq[ascii] = 0;
         }
-        return res.reverse().toString();
+        for (int i = 0; i < letterFreq.length; i++) {
+            if (letterFreq[i] > 0) {
+                res.repeat((char)(i + 97), letterFreq[i]);
+            }
+        }
+        return res.toString();
     }
 }
