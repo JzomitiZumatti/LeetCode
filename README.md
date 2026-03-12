@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
 | [0827-expressive-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/JzomitiZumatti/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/0742-to-lower-case) |
+| [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/0819-most-common-word) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/JzomitiZumatti/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
 | [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/JzomitiZumatti/LeetCode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0859-buddy-strings) |
