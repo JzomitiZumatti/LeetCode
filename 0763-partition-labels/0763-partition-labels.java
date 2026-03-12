@@ -1,23 +1,27 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
         List<Integer> res = new ArrayList<>();
-        int left = 0;
-        int last = left;
-        int start = 0;
-        while (left < s.length()) {
-            char c = s.charAt(left);
-            for (int i = s.length() - 1; i > left; i--) {
-                if (s.charAt(i) == c) {
-                    last = Math.max(last, i);
-                    break;
+        Map<Character, Integer> letterLastPos = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (!letterLastPos.containsKey(c)) {
+                for (int j = s.length() - 1; j >= i; j--) {
+                    if (s.charAt(i) == s.charAt(j)) {
+                        letterLastPos.put(c, j);
+                        break;
+                    }
                 }
             }
-            if (left == last) {
-                res.add(last - start + 1);
-                start = left + 1;
-                last = left + 1;
+        }
+        int start = 0;
+        int end = 0;
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            end = Math.max(end, letterLastPos.get(c));
+            if (i == end) {
+                res.add(end - start + 1);
+                start = i + 1;
             }
-            left++;
         }
         return res;
     }
