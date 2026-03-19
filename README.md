@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/JzomitiZumatti/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Backtracking
@@ -1537,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JzomitiZumatti/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
