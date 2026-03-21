@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/JzomitiZumatti/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/JzomitiZumatti/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3697-compute-decimal-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3697-compute-decimal-representation) |
@@ -1483,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/JzomitiZumatti/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
 |  |
 | ------- |
