@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -1472,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
