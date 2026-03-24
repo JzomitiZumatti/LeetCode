@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2899-last-visited-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2899-last-visited-integers) |
+| [2906-construct-product-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -1485,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2906-construct-product-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1548,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2485-find-the-pivot-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
