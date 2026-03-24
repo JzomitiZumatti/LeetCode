@@ -10,7 +10,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (i == 0 && j == 0) {
-                    pref[i][j] = grid[i][j];
+                    pref[i][j] = grid[i][j] % MOD;
                 } else if (i == 0) {
                     pref[i][j] = (int)(((long) pref[i][j - 1] * grid[i][j]) % MOD);
                 } else if (j == 0) {
@@ -24,7 +24,7 @@ class Solution {
         for (int i = n - 1; i >= 0; i--) {
             for (int j = m - 1; j >= 0; j--) {
                 if (i == n - 1 && j == m - 1) {
-                    suf[i][j] = grid[i][j];
+                    suf[i][j] = grid[i][j] % MOD;
                 } else if (i == n - 1) {
                     suf[i][j] = (int)(((long) suf[i][j + 1] * grid[i][j]) % MOD);
                 } else if (j == m - 1) {
