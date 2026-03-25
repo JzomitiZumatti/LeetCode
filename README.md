@@ -767,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JzomitiZumatti/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3546-equal-sum-grid-partition-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JzomitiZumatti/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1491,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3546-equal-sum-grid-partition-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JzomitiZumatti/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
@@ -1557,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JzomitiZumatti/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3707-equal-score-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3707-equal-score-substrings) |
@@ -1581,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/JzomitiZumatti/LeetCode/tree/master/3221-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3546-equal-sum-grid-partition-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Ordered Set
