@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/JzomitiZumatti/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/JzomitiZumatti/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JzomitiZumatti/LeetCode/tree/master/0057-insert-interval) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/JzomitiZumatti/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
