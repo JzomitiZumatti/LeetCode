@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/JzomitiZumatti/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2938-separate-black-and-white-balls](https://github.com/JzomitiZumatti/LeetCode/tree/master/2938-separate-black-and-white-balls) |
@@ -1161,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/JzomitiZumatti/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1390,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/JzomitiZumatti/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
