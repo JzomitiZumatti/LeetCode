@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/JzomitiZumatti/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2785-sort-vowels-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/JzomitiZumatti/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JzomitiZumatti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -1396,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/JzomitiZumatti/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2785-sort-vowels-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
