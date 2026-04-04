@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JzomitiZumatti/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JzomitiZumatti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JzomitiZumatti/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2159-two-out-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2159-two-out-of-three) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/JzomitiZumatti/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2169-simple-bank-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/2169-simple-bank-system) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JzomitiZumatti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JzomitiZumatti/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
