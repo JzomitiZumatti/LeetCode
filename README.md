@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-occurrences-after-bigram) |
+| [1079-letter-tile-possibilities](https://github.com/JzomitiZumatti/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/JzomitiZumatti/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JzomitiZumatti/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1044-find-common-characters) |
+| [1079-letter-tile-possibilities](https://github.com/JzomitiZumatti/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1217-relative-sort-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1217-relative-sort-array) |
@@ -1227,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/JzomitiZumatti/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/0819-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1079-letter-tile-possibilities](https://github.com/JzomitiZumatti/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -1542,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/JzomitiZumatti/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JzomitiZumatti/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JzomitiZumatti/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1980-find-unique-binary-string) |
