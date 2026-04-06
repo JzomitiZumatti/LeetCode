@@ -3,7 +3,6 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> path = new ArrayList<>();
         int start = 0;
-        Arrays.sort(nums);
         dfs(start, nums, ans, path);
         return ans;
     }
