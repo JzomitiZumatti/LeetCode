@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/JzomitiZumatti/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JzomitiZumatti/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JzomitiZumatti/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/JzomitiZumatti/LeetCode/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
