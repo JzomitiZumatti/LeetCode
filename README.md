@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2405-optimal-partition-of-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2405-optimal-partition-of-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1169,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2405-optimal-partition-of-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
