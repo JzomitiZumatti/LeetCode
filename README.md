@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3636-check-balanced-string) |
 | [3707-equal-score-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3707-equal-score-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JzomitiZumatti/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3798-largest-even-number) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
 |  |
 | ------- |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
