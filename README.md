@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3099-harshad-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3099-harshad-number) |
+| [3100-water-bottles-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3199-distribute-candies-among-children-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
@@ -1056,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2899-last-visited-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3100-water-bottles-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3271-hash-divided-string) |
