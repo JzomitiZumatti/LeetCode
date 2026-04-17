@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2727-number-of-senior-citizens](https://github.com/JzomitiZumatti/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/JzomitiZumatti/LeetCode/tree/master/2810-faulty-keyboard) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JzomitiZumatti/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2698-find-the-array-concatenation-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2717-semi-ordered-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/2717-semi-ordered-permutation) |
 | [2810-faulty-keyboard](https://github.com/JzomitiZumatti/LeetCode/tree/master/2810-faulty-keyboard) |
