@@ -4,7 +4,7 @@ class Solution {
         for (int i = 0; i < nums1.length; i++) {
             int n = nums1[i];
             int index = binarySearch(i, nums2, n);
-            if (index != -1) max = Math.max(max, binarySearch(i, nums2, n) - i);
+            if (index != -1) max = Math.max(max, index - i);
         }
         return max;
     }
