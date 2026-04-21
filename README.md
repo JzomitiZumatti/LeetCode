@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/JzomitiZumatti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JzomitiZumatti/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2404-most-frequent-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JzomitiZumatti/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2405-optimal-partition-of-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2405-optimal-partition-of-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1457,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JzomitiZumatti/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
