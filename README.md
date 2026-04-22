@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2476-check-distances-between-same-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
@@ -1733,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Quickselect
 |  |
