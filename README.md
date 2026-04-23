@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/JzomitiZumatti/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/JzomitiZumatti/LeetCode/tree/master/2615-sum-of-distances) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JzomitiZumatti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2615-sum-of-distances](https://github.com/JzomitiZumatti/LeetCode/tree/master/2615-sum-of-distances) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2670-find-the-distinct-difference-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
@@ -1663,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2485-find-the-pivot-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2615-sum-of-distances](https://github.com/JzomitiZumatti/LeetCode/tree/master/2615-sum-of-distances) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
