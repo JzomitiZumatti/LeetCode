@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3248-snake-in-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3271-hash-divided-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3271-hash-divided-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JzomitiZumatti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3248-snake-in-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
+| [3248-snake-in-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3271-hash-divided-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3271-hash-divided-string) |
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
