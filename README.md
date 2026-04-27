@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/JzomitiZumatti/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/JzomitiZumatti/LeetCode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3606-coupon-code-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3334-apple-redistribution-into-boxes](https://github.com/JzomitiZumatti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Tree
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/JzomitiZumatti/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JzomitiZumatti/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1336,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -1497,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-sort-matrix-by-diagonals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
