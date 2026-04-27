@@ -16,7 +16,6 @@ class Solution {
         else {
             int i = 0;
             for (int f : freq) {
-                System.out.println(f + ", " + d);
                 if (f > 0) {
                     res += f;
                     i++;
