@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1332-remove-palindromic-subsequences](https://github.com/JzomitiZumatti/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1370-increasing-decreasing-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1370-increasing-decreasing-string) |
@@ -1176,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JzomitiZumatti/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/JzomitiZumatti/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1370-increasing-decreasing-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1370-increasing-decreasing-string) |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
