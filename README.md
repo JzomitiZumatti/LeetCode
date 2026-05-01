@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3271-hash-divided-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3271-hash-divided-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JzomitiZumatti/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JzomitiZumatti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3271-hash-divided-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/JzomitiZumatti/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3447-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
