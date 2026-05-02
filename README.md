@@ -878,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/JzomitiZumatti/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-weighted-word-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
@@ -1301,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JzomitiZumatti/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3803-count-residue-prefixes](https://github.com/JzomitiZumatti/LeetCode/tree/master/3803-count-residue-prefixes) |
+| [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4053-majority-frequency-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/4053-majority-frequency-characters) |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4053-majority-frequency-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/4053-majority-frequency-characters) |
