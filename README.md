@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1817-finding-the-users-active-minutes](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
