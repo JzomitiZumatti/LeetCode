@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/JzomitiZumatti/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/2881-split-strings-by-separator) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/JzomitiZumatti/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JzomitiZumatti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/JzomitiZumatti/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2938-separate-black-and-white-balls](https://github.com/JzomitiZumatti/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1269,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/JzomitiZumatti/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1361,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/JzomitiZumatti/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/JzomitiZumatti/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
