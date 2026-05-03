@@ -6,7 +6,6 @@ class Solution {
             numPos.putIfAbsent(nums[i], new ArrayList<>());
             numPos.get(nums[i]).add(i);
         }
-        System.out.println(numPos);
         for (List<Integer> value : numPos.values()) {
             if (value.size() == 1) return -1;
             else ans += (value.size() + 2) / 3;
