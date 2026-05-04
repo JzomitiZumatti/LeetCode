@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/JzomitiZumatti/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/JzomitiZumatti/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JzomitiZumatti/LeetCode/tree/master/0069-sqrtx) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/JzomitiZumatti/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JzomitiZumatti/LeetCode/tree/master/0056-merge-intervals) |
@@ -1625,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
