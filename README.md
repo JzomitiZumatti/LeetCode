@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/JzomitiZumatti/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/JzomitiZumatti/LeetCode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JzomitiZumatti/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JzomitiZumatti/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/JzomitiZumatti/LeetCode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/JzomitiZumatti/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0832-flipping-an-image) |
@@ -1653,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0566-reshape-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0832-flipping-an-image) |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
