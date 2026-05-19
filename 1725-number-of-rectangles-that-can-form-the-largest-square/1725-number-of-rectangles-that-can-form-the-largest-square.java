@@ -1,12 +1,15 @@
 class Solution {
     public int countGoodRectangles(int[][] rectangles) {
-        Map<Integer, Integer> numberFreq = new HashMap<>();
         int max = Integer.MIN_VALUE;
+        int ans = 0;
         for (int[] rectangle : rectangles) {
             int min = Math.min(rectangle[0], rectangle[1]);
-            max = Math.max(max, min);
-            numberFreq.put(min, numberFreq.getOrDefault(min, 0) + 1);
+            if (max < min) {
+                ans = 1;
+                max = Math.max(max, min);
+            }
+            else if (max == min) ans++;
         }
-        return numberFreq.get(max);
+        return ans;
     }
 }
