@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JzomitiZumatti/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-decode-xored-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1720-decode-xored-array) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
