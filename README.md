@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/JzomitiZumatti/LeetCode/tree/master/3019-number-of-changing-keys) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3055-maximum-odd-binary-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/3136-valid-word) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -1830,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Quickselect
 |  |
