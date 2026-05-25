@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/JzomitiZumatti/LeetCode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/JzomitiZumatti/LeetCode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
