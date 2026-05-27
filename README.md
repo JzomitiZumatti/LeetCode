@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/JzomitiZumatti/LeetCode/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/JzomitiZumatti/LeetCode/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/JzomitiZumatti/LeetCode/tree/master/0811-subdomain-visit-count) |
@@ -1859,6 +1861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/JzomitiZumatti/LeetCode/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
@@ -1869,6 +1872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JzomitiZumatti/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/JzomitiZumatti/LeetCode/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/JzomitiZumatti/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/JzomitiZumatti/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1622-fancy-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1622-fancy-sequence) |
@@ -1886,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JzomitiZumatti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0705-design-hashset](https://github.com/JzomitiZumatti/LeetCode/tree/master/0705-design-hashset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
