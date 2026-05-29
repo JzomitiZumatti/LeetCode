@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/JzomitiZumatti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JzomitiZumatti/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JzomitiZumatti/LeetCode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/JzomitiZumatti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
