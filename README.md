@@ -902,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/JzomitiZumatti/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/JzomitiZumatti/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3697-compute-decimal-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -1346,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3668-restore-finishing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/JzomitiZumatti/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3713-longest-balanced-substring-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
