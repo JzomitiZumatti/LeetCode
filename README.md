@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3817-maximum-containers-on-a-ship](https://github.com/JzomitiZumatti/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3859-maximum-product-of-two-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
 | ------- |
