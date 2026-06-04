@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JzomitiZumatti/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1817-finding-the-users-active-minutes](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-units-on-a-truck](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1829-maximum-xor-for-each-query](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/JzomitiZumatti/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/1708-design-parking-system) |
 | [1769-get-maximum-in-generated-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -1376,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/JzomitiZumatti/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/JzomitiZumatti/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -1666,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
