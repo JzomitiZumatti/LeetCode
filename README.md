@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/JzomitiZumatti/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JzomitiZumatti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JzomitiZumatti/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/JzomitiZumatti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1142,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JzomitiZumatti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-watering-plants](https://github.com/JzomitiZumatti/LeetCode/tree/master/2079-watering-plants) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JzomitiZumatti/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
