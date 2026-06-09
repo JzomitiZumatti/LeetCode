@@ -920,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/JzomitiZumatti/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3689-maximum-total-subarray-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/JzomitiZumatti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Tree
 |  |
