@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JzomitiZumatti/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1742,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JzomitiZumatti/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -1819,6 +1821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/JzomitiZumatti/LeetCode/tree/master/2615-sum-of-distances) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
