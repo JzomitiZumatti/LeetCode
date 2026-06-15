@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1496-path-crossing](https://github.com/JzomitiZumatti/LeetCode/tree/master/1496-path-crossing) |
+| [1507-reformat-date](https://github.com/JzomitiZumatti/LeetCode/tree/master/1507-reformat-date) |
 | [1544-make-the-string-great](https://github.com/JzomitiZumatti/LeetCode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1556-thousand-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/1556-thousand-separator) |
