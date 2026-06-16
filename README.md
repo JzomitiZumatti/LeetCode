@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1630-arithmetic-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1640-check-array-formation-through-concatenation](https://github.com/JzomitiZumatti/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1646-kth-missing-positive-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1656-count-good-triplets) |
@@ -1301,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1630-arithmetic-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1640-check-array-formation-through-concatenation](https://github.com/JzomitiZumatti/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
