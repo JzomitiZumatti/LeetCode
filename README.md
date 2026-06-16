@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JzomitiZumatti/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JzomitiZumatti/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1630-arithmetic-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1630-arithmetic-subarrays) |
@@ -1587,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JzomitiZumatti/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1630-arithmetic-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JzomitiZumatti/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
