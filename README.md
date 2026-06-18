@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1899-count-items-matching-a-rule](https://github.com/JzomitiZumatti/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/JzomitiZumatti/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/JzomitiZumatti/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1944-truncate-sentence) |
