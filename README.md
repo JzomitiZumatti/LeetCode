@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/JzomitiZumatti/LeetCode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2226-rings-and-rods](https://github.com/JzomitiZumatti/LeetCode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/JzomitiZumatti/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
