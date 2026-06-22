@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/JzomitiZumatti/LeetCode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/JzomitiZumatti/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/JzomitiZumatti/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/JzomitiZumatti/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1885,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/JzomitiZumatti/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
