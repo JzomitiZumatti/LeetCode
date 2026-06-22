@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2032-largest-odd-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
