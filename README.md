@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/JzomitiZumatti/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/JzomitiZumatti/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -1778,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/JzomitiZumatti/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
