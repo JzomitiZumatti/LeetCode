@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
+| [2409-count-days-spent-together](https://github.com/JzomitiZumatti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/JzomitiZumatti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-strictly-palindromic-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2481-strictly-palindromic-number) |
