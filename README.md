@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JzomitiZumatti/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2406-decode-the-message](https://github.com/JzomitiZumatti/LeetCode/tree/master/2406-decode-the-message) |
@@ -1832,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JzomitiZumatti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JzomitiZumatti/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
