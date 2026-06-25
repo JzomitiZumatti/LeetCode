@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/JzomitiZumatti/LeetCode/tree/master/2582-pass-the-pillow) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/JzomitiZumatti/LeetCode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2614-prime-in-diagonal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2615-sum-of-distances](https://github.com/JzomitiZumatti/LeetCode/tree/master/2615-sum-of-distances) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
@@ -1256,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/JzomitiZumatti/LeetCode/tree/master/1952-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1795,6 +1798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JzomitiZumatti/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2614-prime-in-diagonal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2906-construct-product-matrix) |
