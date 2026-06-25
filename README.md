@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/JzomitiZumatti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/JzomitiZumatti/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JzomitiZumatti/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/JzomitiZumatti/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
