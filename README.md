@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3199-distribute-candies-among-children-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3227-vowels-game-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3270-find-the-key-of-the-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3270-find-the-key-of-the-numbers) |
@@ -1241,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3100-water-bottles-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
 | [3248-snake-in-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3271-hash-divided-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3271-hash-divided-string) |
@@ -1781,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Matrix
 |  |
