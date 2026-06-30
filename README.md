@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/JzomitiZumatti/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3238-find-the-number-of-winning-players](https://github.com/JzomitiZumatti/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3248-snake-in-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3238-find-the-number-of-winning-players](https://github.com/JzomitiZumatti/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JzomitiZumatti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -1517,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3238-find-the-number-of-winning-players](https://github.com/JzomitiZumatti/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
