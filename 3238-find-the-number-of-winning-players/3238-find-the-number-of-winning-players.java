@@ -10,14 +10,11 @@ class Solution {
         int ans = 0;
         for (Map.Entry<Integer, Map<Integer, Integer>> entry : map.entrySet()) {
             int playerN = entry.getKey();
-            if (playerN == 0) ans++;
-            else {
-                int max = 0;
-                for (Integer val : entry.getValue().values()) {
-                    max = Math.max(max, val);
-                }
-                if (playerN <= max - 1) ans++;
+            int max = 0;
+            for (Integer val : entry.getValue().values()) {
+                max = Math.max(max, val);
             }
+            if (max > playerN) ans++;
         }
         return ans;
     }
