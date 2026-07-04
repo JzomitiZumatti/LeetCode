@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/JzomitiZumatti/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3838-weighted-word-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3861-minimum-capacity-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
