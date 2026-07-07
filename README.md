@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/JzomitiZumatti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/JzomitiZumatti/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3379-transformed-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JzomitiZumatti/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1884,6 +1885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/JzomitiZumatti/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
@@ -1921,6 +1923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3311-ant-on-the-boundary](https://github.com/JzomitiZumatti/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/JzomitiZumatti/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JzomitiZumatti/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
