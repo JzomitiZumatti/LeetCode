@@ -5,7 +5,6 @@ class Solution {
         for (int num : nums) {
             arr[num - 1]++;
         }
-        System.out.println(Arrays.toString(arr));
         int left = 0;
         int right = 2 < nums.length ? 2 : nums.length - 1;
         if (isUnique(arr)) return ans;
