@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JzomitiZumatti/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/JzomitiZumatti/LeetCode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JzomitiZumatti/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1437,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/JzomitiZumatti/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/JzomitiZumatti/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JzomitiZumatti/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
