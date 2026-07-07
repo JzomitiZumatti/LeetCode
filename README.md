@@ -950,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1446,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/JzomitiZumatti/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
