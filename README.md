@@ -954,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JzomitiZumatti/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3488-closest-equal-element-queries](https://github.com/JzomitiZumatti/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1118,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3334-apple-redistribution-into-boxes](https://github.com/JzomitiZumatti/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/JzomitiZumatti/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JzomitiZumatti/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -1449,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/JzomitiZumatti/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3488-closest-equal-element-queries](https://github.com/JzomitiZumatti/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
