@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/JzomitiZumatti/LeetCode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/JzomitiZumatti/LeetCode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JzomitiZumatti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/JzomitiZumatti/LeetCode/tree/master/0412-fizz-buzz) |
@@ -1572,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/JzomitiZumatti/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JzomitiZumatti/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/JzomitiZumatti/LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/JzomitiZumatti/LeetCode/tree/master/0401-binary-watch) |
