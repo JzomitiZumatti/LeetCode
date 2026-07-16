@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/JzomitiZumatti/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1370-increasing-decreasing-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/JzomitiZumatti/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1360-number-of-days-between-two-dates](https://github.com/JzomitiZumatti/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/JzomitiZumatti/LeetCode/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/JzomitiZumatti/LeetCode/tree/master/1399-count-largest-group) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
