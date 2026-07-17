@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/JzomitiZumatti/LeetCode/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/JzomitiZumatti/LeetCode/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/JzomitiZumatti/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/JzomitiZumatti/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
