@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/JzomitiZumatti/LeetCode/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/JzomitiZumatti/LeetCode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -1968,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1291-sequential-digits) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JzomitiZumatti/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/JzomitiZumatti/LeetCode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1656-count-good-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1656-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JzomitiZumatti/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/JzomitiZumatti/LeetCode/tree/master/1925-count-square-sum-triples) |
