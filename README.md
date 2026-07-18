@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/JzomitiZumatti/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JzomitiZumatti/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1854-maximum-population-year](https://github.com/JzomitiZumatti/LeetCode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JzomitiZumatti/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1526,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1854-maximum-population-year](https://github.com/JzomitiZumatti/LeetCode/tree/master/1854-maximum-population-year) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1941,6 +1943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/JzomitiZumatti/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/JzomitiZumatti/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/JzomitiZumatti/LeetCode/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JzomitiZumatti/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
