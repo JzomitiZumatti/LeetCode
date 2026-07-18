@@ -1,6 +1,6 @@
 class Solution {
     public int countTime(String time) {
-         String[] hours = new String[24];
+        String[] hours = new String[24];
         for (int i = 0; i < 24; i++) {
             hours[i] = String.format("%02d", i);
         }
