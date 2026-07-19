@@ -5,6 +5,6 @@ class Solution {
         for (int num : nums) {
             freqs[num - 1]++;
         }
-        return nums.length == 1 ? true : freqs[nums[(nums.length / 2)] - 1]  == 1;
+        return freqs[nums[(nums.length / 2)] - 1]  == 1;
     }
 }
