@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/JzomitiZumatti/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0539-minimum-time-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JzomitiZumatti/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/JzomitiZumatti/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0507-perfect-number) |
+| [0539-minimum-time-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/JzomitiZumatti/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/JzomitiZumatti/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0575-distribute-candies) |
@@ -1661,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/JzomitiZumatti/LeetCode/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/JzomitiZumatti/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0611-valid-triangle-number) |
