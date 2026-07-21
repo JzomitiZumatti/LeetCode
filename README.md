@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/JzomitiZumatti/LeetCode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1556-thousand-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/1556-thousand-separator) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
