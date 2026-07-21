@@ -962,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3379-transformed-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JzomitiZumatti/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3386-button-with-longest-push-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/3386-button-with-longest-push-time) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/JzomitiZumatti/LeetCode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JzomitiZumatti/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
