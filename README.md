@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/JzomitiZumatti/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/JzomitiZumatti/LeetCode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/JzomitiZumatti/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/JzomitiZumatti/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/JzomitiZumatti/LeetCode/tree/master/0575-distribute-candies) |
