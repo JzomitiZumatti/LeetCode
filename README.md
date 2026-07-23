@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JzomitiZumatti/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JzomitiZumatti/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2698-find-the-array-concatenation-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -1453,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2670-find-the-distinct-difference-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/JzomitiZumatti/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/JzomitiZumatti/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
