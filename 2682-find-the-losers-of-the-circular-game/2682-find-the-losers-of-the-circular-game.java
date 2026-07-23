@@ -6,7 +6,7 @@ class Solution {
         while (true) {
             pa[i]++;
             if (pa[i] > 1) break;
-            i = i + (k * j) < n ? i + (k * j) : (i + (k * j)) % n;
+            i = (i + (k * j)) % n;
             j++;
         }
         List<Integer> ans = new ArrayList<>();
