@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/JzomitiZumatti/LeetCode/tree/master/2582-pass-the-pillow) |
+| [2591-distribute-money-to-maximum-children](https://github.com/JzomitiZumatti/LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/JzomitiZumatti/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2405-optimal-partition-of-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2591-distribute-money-to-maximum-children](https://github.com/JzomitiZumatti/LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
