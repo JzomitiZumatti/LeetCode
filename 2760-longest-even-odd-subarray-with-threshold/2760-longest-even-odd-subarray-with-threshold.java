@@ -5,18 +5,15 @@ class Solution {
             int prev = nums[i];
             if (prev % 2 == 0 && prev <= threshold) {
                 ans = Math.max(ans, 1);
-                boolean f = true;
                 if (i < nums.length - 1) {
-                    for (int j = i + 1; j < nums.length; j++) {
+                    int j = i + 1;
+                    while (j < nums.length) {
                         int curr = nums[j];
-                        if (curr > threshold || prev % 2 == curr % 2) {
-                            ans = Math.max(ans, j - i);
-                            f = false;
-                            break;
-                        }
+                        if (curr > threshold || prev % 2 == curr % 2) break;
                         prev = curr;
+                        j++;
                     }
-                    if (f)  ans = Math.max(ans, nums.length - i);
+                    ans = Math.max(ans, j - i);
                 }
             }
         }
