@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2727-number-of-senior-citizens](https://github.com/JzomitiZumatti/LeetCode/tree/master/2727-number-of-senior-citizens) |
