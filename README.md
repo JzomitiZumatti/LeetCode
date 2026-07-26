@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0804-rotated-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0804-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/JzomitiZumatti/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1957,6 +1958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/JzomitiZumatti/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/JzomitiZumatti/LeetCode/tree/master/1115-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/JzomitiZumatti/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
