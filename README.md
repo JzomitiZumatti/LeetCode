@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3856-trim-trailing-vowels](https://github.com/JzomitiZumatti/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/JzomitiZumatti/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3921-score-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 | [4053-majority-frequency-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/4053-majority-frequency-characters) |
 ## String Matching
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3921-score-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3921-score-validator) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3921-score-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3921-score-validator) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
 |  |
