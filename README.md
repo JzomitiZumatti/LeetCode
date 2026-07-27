@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3908-valid-digit-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/JzomitiZumatti/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
