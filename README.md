@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [0989-add-to-array-form-of-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/JzomitiZumatti/LeetCode/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/JzomitiZumatti/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -1259,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/JzomitiZumatti/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/JzomitiZumatti/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -1903,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/JzomitiZumatti/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/JzomitiZumatti/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
