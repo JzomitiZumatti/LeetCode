@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/JzomitiZumatti/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1899-count-items-matching-a-rule](https://github.com/JzomitiZumatti/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-truncate-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1944-truncate-sentence) |
@@ -1440,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JzomitiZumatti/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1995-count-special-quadruplets) |
@@ -1581,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/JzomitiZumatti/LeetCode/tree/master/1854-maximum-population-year) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
