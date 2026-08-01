@@ -963,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/JzomitiZumatti/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3151-special-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3151-special-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
@@ -1506,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1681,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/JzomitiZumatti/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3183-find-the-k-or-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
