@@ -946,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -1503,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/JzomitiZumatti/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
@@ -1680,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-number-of-even-and-odd-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -1988,6 +1991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JzomitiZumatti/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/JzomitiZumatti/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -2114,6 +2118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/0648-replace-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Quickselect
