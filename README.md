@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [2937-make-three-strings-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2937-make-three-strings-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/JzomitiZumatti/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
