@@ -955,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3024-type-of-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/3024-type-of-triangle) |
+| [3033-modify-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
@@ -1946,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3033-modify-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/JzomitiZumatti/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JzomitiZumatti/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
