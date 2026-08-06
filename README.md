@@ -957,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3024-type-of-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3033-modify-the-matrix) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
@@ -1323,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2899-last-visited-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3100-water-bottles-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
