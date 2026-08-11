@@ -1055,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/JzomitiZumatti/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3833-count-dominant-indices](https://github.com/JzomitiZumatti/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -2097,6 +2098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3827-count-monobit-integers) |
+| [3833-count-dominant-indices](https://github.com/JzomitiZumatti/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Ordered Set
