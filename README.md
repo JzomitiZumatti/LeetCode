@@ -1066,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3912-valid-elements-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3921-score-validator) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
