@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/JzomitiZumatti/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2525-categorize-box-according-to-criteria](https://github.com/JzomitiZumatti/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/JzomitiZumatti/LeetCode/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/JzomitiZumatti/LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
