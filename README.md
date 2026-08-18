@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/JzomitiZumatti/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/JzomitiZumatti/LeetCode/tree/master/2938-separate-black-and-white-balls) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3477-fruits-into-baskets-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -2099,6 +2102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2765-longest-alternating-subarray](https://github.com/JzomitiZumatti/LeetCode/tree/master/2765-longest-alternating-subarray) |
 | [2843-count-symmetric-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3199-distribute-candies-among-children-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/3200-maximum-height-of-a-triangle) |
