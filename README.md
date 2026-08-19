@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2465-number-of-distinct-averages](https://github.com/JzomitiZumatti/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2481-strictly-palindromic-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JzomitiZumatti/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2465-number-of-distinct-averages](https://github.com/JzomitiZumatti/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2476-check-distances-between-same-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JzomitiZumatti/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
 | [2451-odd-string-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2451-odd-string-difference) |
+| [2465-number-of-distinct-averages](https://github.com/JzomitiZumatti/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2476-check-distances-between-same-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JzomitiZumatti/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -1813,6 +1816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JzomitiZumatti/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2447-merge-similar-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/2447-merge-similar-items) |
+| [2465-number-of-distinct-averages](https://github.com/JzomitiZumatti/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JzomitiZumatti/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
