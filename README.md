@@ -962,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JzomitiZumatti/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
@@ -1531,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JzomitiZumatti/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3046-split-the-array) |
@@ -1832,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/JzomitiZumatti/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JzomitiZumatti/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
