@@ -1083,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/JzomitiZumatti/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4020-elevator-requests-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1372,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3921-score-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3921-score-validator) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4020-elevator-requests-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Number Theory
 |  |
 | ------- |
