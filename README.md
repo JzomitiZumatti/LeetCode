@@ -1084,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4020-elevator-requests-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/JzomitiZumatti/LeetCode/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2129,6 +2130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/JzomitiZumatti/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [4024-nearest-available-drone](https://github.com/JzomitiZumatti/LeetCode/tree/master/4024-nearest-available-drone) |
 ## Ordered Set
 |  |
 | ------- |
