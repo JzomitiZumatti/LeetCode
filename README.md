@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0953-verifying-an-alien-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/JzomitiZumatti/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0867-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/JzomitiZumatti/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1103-distribute-candies-to-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -1592,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/JzomitiZumatti/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/JzomitiZumatti/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/JzomitiZumatti/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -1768,6 +1771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
