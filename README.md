@@ -1220,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/JzomitiZumatti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/JzomitiZumatti/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/JzomitiZumatti/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/JzomitiZumatti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/JzomitiZumatti/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/JzomitiZumatti/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/JzomitiZumatti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/JzomitiZumatti/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -1266,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/JzomitiZumatti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/JzomitiZumatti/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/JzomitiZumatti/LeetCode/tree/master/0404-sum-of-left-leaves) |
