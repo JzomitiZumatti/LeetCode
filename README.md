@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/JzomitiZumatti/LeetCode/tree/master/2079-watering-plants) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -1178,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/JzomitiZumatti/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JzomitiZumatti/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
