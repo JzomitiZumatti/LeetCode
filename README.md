@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0804-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/JzomitiZumatti/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/JzomitiZumatti/LeetCode/tree/master/0832-flipping-an-image) |
 | [0841-shortest-distance-to-a-character](https://github.com/JzomitiZumatti/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0867-transpose-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0804-rotated-digits) |
+| [0877-stone-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
@@ -1952,6 +1955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/JzomitiZumatti/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -2271,4 +2275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
