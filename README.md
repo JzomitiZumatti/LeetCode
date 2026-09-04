@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JzomitiZumatti/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2536-increment-submatrices-by-one](https://github.com/JzomitiZumatti/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-apply-operations-to-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -2008,6 +2009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JzomitiZumatti/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2536-increment-submatrices-by-one](https://github.com/JzomitiZumatti/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/JzomitiZumatti/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/JzomitiZumatti/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -2103,6 +2105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2536-increment-submatrices-by-one](https://github.com/JzomitiZumatti/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/JzomitiZumatti/LeetCode/tree/master/2615-sum-of-distances) |
 | [2714-left-and-right-sum-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/JzomitiZumatti/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
