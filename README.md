@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3884-first-matching-character-from-both-ends](https://github.com/JzomitiZumatti/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3921-score-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/JzomitiZumatti/LeetCode/tree/master/3941-password-strength) |
 | [4053-majority-frequency-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/4053-majority-frequency-characters) |
 ## String Matching
 |  |
@@ -1608,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JzomitiZumatti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3941-password-strength](https://github.com/JzomitiZumatti/LeetCode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/JzomitiZumatti/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4053-majority-frequency-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/4053-majority-frequency-characters) |
