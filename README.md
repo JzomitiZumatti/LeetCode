@@ -750,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/JzomitiZumatti/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-minimum-absolute-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1314-matrix-block-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-sort-the-matrix-diagonally](https://github.com/JzomitiZumatti/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/JzomitiZumatti/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1996,6 +1997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1314-matrix-block-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/JzomitiZumatti/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -2097,6 +2099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JzomitiZumatti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/JzomitiZumatti/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/JzomitiZumatti/LeetCode/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
