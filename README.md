@@ -961,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/JzomitiZumatti/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -1564,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/JzomitiZumatti/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -2081,6 +2083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JzomitiZumatti/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/JzomitiZumatti/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JzomitiZumatti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
