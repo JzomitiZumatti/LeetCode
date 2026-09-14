@@ -1092,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JzomitiZumatti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -1407,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3921-score-validator](https://github.com/JzomitiZumatti/LeetCode/tree/master/3921-score-validator) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4020-elevator-requests-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4020-elevator-requests-i) |
