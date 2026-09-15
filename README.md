@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/JzomitiZumatti/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/JzomitiZumatti/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/JzomitiZumatti/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3994-find-the-least-frequent-digit](https://github.com/JzomitiZumatti/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/JzomitiZumatti/LeetCode/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
@@ -1236,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Tree
 |  |
 | ------- |
@@ -1908,6 +1911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3859-maximum-product-of-two-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
