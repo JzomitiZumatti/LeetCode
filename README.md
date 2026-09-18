@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1622-fancy-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1641-count-sorted-vowel-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1641-count-sorted-vowel-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -2266,6 +2268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JzomitiZumatti/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
