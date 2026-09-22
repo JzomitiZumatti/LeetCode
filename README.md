@@ -1096,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/JzomitiZumatti/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/JzomitiZumatti/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JzomitiZumatti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -1630,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3803-count-residue-prefixes](https://github.com/JzomitiZumatti/LeetCode/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JzomitiZumatti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1716,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/JzomitiZumatti/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3843-first-element-with-unique-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JzomitiZumatti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JzomitiZumatti/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
