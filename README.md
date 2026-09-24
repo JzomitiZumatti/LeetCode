@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/2476-check-distances-between-same-letters) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2490-circular-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2490-circular-sentence) |
 | [2502-sort-the-people](https://github.com/JzomitiZumatti/LeetCode/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -2149,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/JzomitiZumatti/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/JzomitiZumatti/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/JzomitiZumatti/LeetCode/tree/master/2615-sum-of-distances) |
