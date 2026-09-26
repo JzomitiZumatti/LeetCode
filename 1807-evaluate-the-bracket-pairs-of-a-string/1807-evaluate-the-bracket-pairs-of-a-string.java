@@ -5,7 +5,6 @@ class Solution {
             keyWord.put(strings.getFirst(), strings.getLast());
         }
         StringBuilder ans = new StringBuilder();
-        boolean flag = false;
         int i = 0;
         while (i < s.length()) {
             char c = s.charAt(i);
