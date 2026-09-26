@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/JzomitiZumatti/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JzomitiZumatti/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/JzomitiZumatti/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/JzomitiZumatti/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1526,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/JzomitiZumatti/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/JzomitiZumatti/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1848-sum-of-unique-elements) |
