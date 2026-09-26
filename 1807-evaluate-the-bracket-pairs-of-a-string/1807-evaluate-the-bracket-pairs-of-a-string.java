@@ -4,23 +4,22 @@ class Solution {
         for (List<String> strings : knowledge) {
             keyWord.put(strings.getFirst(), strings.getLast());
         }
-        StringBuilder stringBuilder = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
         boolean flag = false;
-        int start = 0;
-        for (int i = 0; i < s.length(); i++) {
+        int i = 0;
+        while (i < s.length()) {
             char c = s.charAt(i);
             if (c == '(') {
-                flag = true;
-                start = i;
-            }
-            if (!flag) stringBuilder.append(c);
-            if (c == ')') {
-                flag = false;
-                String temp = s.substring(start + 1, i);
-                if (keyWord.containsKey(temp)) stringBuilder.append(keyWord.get(temp));
-                else stringBuilder.append('?');
-            }
+                int start = i + 1;
+                while (s.charAt(i) != ')') {
+                    i++;
+                }
+                String str = s.substring(start, i);
+                if (keyWord.containsKey(str)) ans.append(keyWord.get(str));
+                else ans.append('?');
+            } else ans.append(c);
+            i++;
         }
-        return stringBuilder.toString();
+        return ans.toString();
     }
 }
