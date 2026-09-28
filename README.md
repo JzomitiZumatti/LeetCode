@@ -910,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2347-best-poker-hand](https://github.com/JzomitiZumatti/LeetCode/tree/master/2347-best-poker-hand) |
 | [2350-find-closest-number-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2352-equal-row-and-column-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/JzomitiZumatti/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/JzomitiZumatti/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-min-max-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -1557,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2347-best-poker-hand](https://github.com/JzomitiZumatti/LeetCode/tree/master/2347-best-poker-hand) |
+| [2352-equal-row-and-column-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -2053,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JzomitiZumatti/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JzomitiZumatti/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JzomitiZumatti/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
