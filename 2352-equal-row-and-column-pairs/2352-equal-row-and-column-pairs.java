@@ -2,22 +2,20 @@ class Solution {
     public int equalPairs(int[][] grid) {
         int ans = 0;
         int n = grid.length;
-        List<int[]> rows = new ArrayList<>();
-        List<int[]> cols = new ArrayList<>();
+        Map<List<Integer>, Integer> rowsFreq = new HashMap<>();
+        List<List<Integer>> cols = new ArrayList<>();
         for (int i = 0; i < n; i++) {
-            int[] temp1 = new int[grid[0].length];
-            int[] temp2 = new int[grid.length];
+            List<Integer> row = new ArrayList<>();
+            List<Integer> col = new ArrayList<>();
             for (int j = 0; j < n; j++) {
-                temp1[j] = grid[i][j];
-                temp2[j] = grid[j][i];
+                row.add(grid[i][j]);
+                col.add(grid[j][i]);
             }
-            rows.add(temp1);
-            cols.add(temp2);
+            rowsFreq.merge(row, 1, Integer::sum);
+            cols.add(col);
         }
-        for (int[] row : rows) {
-            for (int[] col : cols) {
-                if (Arrays.equals(row, col)) ans++;
-            }
+        for (List<Integer> col : cols) {
+            if (rowsFreq.containsKey(col)) ans += rowsFreq.get(col);
         }
         return ans;
     }
