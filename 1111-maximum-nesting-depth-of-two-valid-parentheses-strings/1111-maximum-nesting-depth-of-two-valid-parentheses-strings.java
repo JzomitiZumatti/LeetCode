@@ -1,25 +1,18 @@
 class Solution {
     public int[] maxDepthAfterSplit(String seq) {
-        List<Integer> adsdas = new ArrayList<>();
-        Stack<Character> fds = new Stack<>();
-        Stack<Integer> saf = new Stack<>();
+        List<Integer> listofDepth = new ArrayList<>();
+        Stack<Integer> depth = new Stack<>();
         for (int i = 0; i < seq.length(); i++) {
             char c = seq.charAt(i);
-            fds.add(c);
+            int n;
             if (c == '(') {
-                int n = saf.isEmpty() ? 0 : saf.peek() + 1;
-                saf.add(n);
-                adsdas.add(n);
+                n = depth.isEmpty() ? 0 : depth.peek() + 1;
+                depth.add(n);
             } else {
-                fds.pop();
-                int n = saf.pop();
-                adsdas.add(n);
+                n = depth.pop();
             }
+            listofDepth.add(n % 2);
         }
-        int[] ans = new int[adsdas.size()];
-        for (int i = 0; i < adsdas.size(); i++) {
-            ans[i] = adsdas.get(i) % 2;
-        }
-        return ans;
+        return listofDepth.stream().mapToInt(Integer::intValue).toArray();
     }
 }
