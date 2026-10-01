@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/JzomitiZumatti/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/JzomitiZumatti/LeetCode/tree/master/0953-reverse-only-letters) |
+| [0969-pancake-sorting](https://github.com/JzomitiZumatti/LeetCode/tree/master/0969-pancake-sorting) |
 | [0979-di-string-match](https://github.com/JzomitiZumatti/LeetCode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0953-verifying-an-alien-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0969-pancake-sorting](https://github.com/JzomitiZumatti/LeetCode/tree/master/0969-pancake-sorting) |
 | [0978-valid-mountain-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/JzomitiZumatti/LeetCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/JzomitiZumatti/LeetCode/tree/master/0763-partition-labels) |
 | [0861-score-after-flipping-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
+| [0969-pancake-sorting](https://github.com/JzomitiZumatti/LeetCode/tree/master/0969-pancake-sorting) |
 | [0979-di-string-match](https://github.com/JzomitiZumatti/LeetCode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -1842,6 +1845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0969-pancake-sorting](https://github.com/JzomitiZumatti/LeetCode/tree/master/0969-pancake-sorting) |
 | [0985-bag-of-tokens](https://github.com/JzomitiZumatti/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/JzomitiZumatti/LeetCode/tree/master/1018-largest-perimeter-triangle) |
