@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1496-path-crossing](https://github.com/JzomitiZumatti/LeetCode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/JzomitiZumatti/LeetCode/tree/master/1507-reformat-date) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/JzomitiZumatti/LeetCode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1556-thousand-separator](https://github.com/JzomitiZumatti/LeetCode/tree/master/1556-thousand-separator) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/JzomitiZumatti/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JzomitiZumatti/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/JzomitiZumatti/LeetCode/tree/master/1544-make-the-string-great) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JzomitiZumatti/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1217,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JzomitiZumatti/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -2395,4 +2398,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JzomitiZumatti/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
