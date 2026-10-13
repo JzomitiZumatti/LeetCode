@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/JzomitiZumatti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JzomitiZumatti/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JzomitiZumatti/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0090-subsets-ii) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -2054,6 +2057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/JzomitiZumatti/LeetCode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2118,6 +2122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/JzomitiZumatti/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/JzomitiZumatti/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JzomitiZumatti/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/0301-remove-invalid-parentheses) |
