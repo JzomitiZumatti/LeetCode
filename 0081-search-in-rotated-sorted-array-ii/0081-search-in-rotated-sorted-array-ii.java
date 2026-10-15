@@ -19,10 +19,10 @@ class Solution {
                 }
                 if (arr[low] <= arr[mid]) {
                     if (arr[low] <= target && arr[mid] >= target) high = mid - 1;
-                    else low++;
+                    else low = mid + 1;
                 } else if (arr[mid] <= arr[high]) {
                     if (arr[mid] <= target && arr[high] >= target) low = mid + 1;
-                    else high--;
+                    else high = mid - 1;
                 }
             }
         }
