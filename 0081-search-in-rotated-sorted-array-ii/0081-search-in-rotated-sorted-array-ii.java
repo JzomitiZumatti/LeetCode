@@ -1,8 +1,8 @@
-import java.util.*;
 class Solution {
     public boolean search(int[] nums, int target) {
-        Arrays.sort(nums);
-        if (Arrays.binarySearch(nums, target) >= 0) return true;
-        else return false;
+        for (int num : nums) {
+            if (num == target) return true;
+        }
+        return false;
     }
 }
