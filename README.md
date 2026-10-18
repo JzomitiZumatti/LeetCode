@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/JzomitiZumatti/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/JzomitiZumatti/LeetCode/tree/master/4024-nearest-available-drone) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
@@ -1976,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3859-maximum-product-of-two-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
@@ -2271,6 +2274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/JzomitiZumatti/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4024-nearest-available-drone](https://github.com/JzomitiZumatti/LeetCode/tree/master/4024-nearest-available-drone) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Ordered Set
 |  |
 | ------- |
