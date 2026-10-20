@@ -20,12 +20,9 @@ class Solution {
         else if (pref.isEmpty() && s.contains(suf)) return true;
         else if (suf.isEmpty() && s.contains(pref)) return true;
         else {
-            for (int i = 0; i < s.length(); i++) {
-                String sub = s.substring(i);
-                if (sub.contains(pref)) {
-                    int last = sub.indexOf(pref) + pref.length() + i;
-                    if (s.substring(last).contains(suf)) return true;
-                }
+            if (s.contains(pref)) {
+                int last = s.indexOf(pref) + pref.length();
+                return s.substring(last).contains(suf);
             }
         }
         return false;
