@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0344-reverse-string) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/JzomitiZumatti/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/JzomitiZumatti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0263-ugly-number) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/JzomitiZumatti/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
