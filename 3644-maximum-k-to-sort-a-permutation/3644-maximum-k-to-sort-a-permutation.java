@@ -1,16 +1,12 @@
 class Solution {
     public int sortPermutation(int[] nums) {
-        int ans = 0;
-        boolean first = true;
+        int ans = -1;
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != i) {
-                if (first) {
-                    ans = nums[i];
-                    first = false;
-                }
+                if (ans == -1) ans = nums[i];
                 else ans &= nums[i];
             }
         }
-        return ans;
+        return Math.max(ans, 0);
     }
 }
