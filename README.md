@@ -1113,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JzomitiZumatti/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/JzomitiZumatti/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -1849,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3827-count-monobit-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/3827-count-monobit-integers) |
