@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/JzomitiZumatti/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/JzomitiZumatti/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/JzomitiZumatti/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0344-reverse-string) |
@@ -1512,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JzomitiZumatti/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/JzomitiZumatti/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/JzomitiZumatti/LeetCode/tree/master/0383-ransom-note) |
@@ -1718,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/JzomitiZumatti/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/JzomitiZumatti/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/0451-sort-characters-by-frequency) |
