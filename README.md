@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/JzomitiZumatti/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/JzomitiZumatti/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JzomitiZumatti/LeetCode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -2318,6 +2319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/JzomitiZumatti/LeetCode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/3227-vowels-game-in-a-string) |
