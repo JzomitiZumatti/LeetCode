@@ -929,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/JzomitiZumatti/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JzomitiZumatti/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1607,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/JzomitiZumatti/LeetCode/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/JzomitiZumatti/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-rings-and-rods](https://github.com/JzomitiZumatti/LeetCode/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -1756,6 +1758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/JzomitiZumatti/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -1948,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/JzomitiZumatti/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/JzomitiZumatti/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JzomitiZumatti/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
