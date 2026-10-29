@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0384-shuffle-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/JzomitiZumatti/LeetCode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JzomitiZumatti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/JzomitiZumatti/LeetCode/tree/master/0412-fizz-buzz) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/JzomitiZumatti/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0384-shuffle-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/JzomitiZumatti/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2361,6 +2363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JzomitiZumatti/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0384-shuffle-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0705-design-hashset](https://github.com/JzomitiZumatti/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/JzomitiZumatti/LeetCode/tree/master/0933-number-of-recent-calls) |
@@ -2452,4 +2455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
