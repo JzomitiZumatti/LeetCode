@@ -14,8 +14,8 @@ class Solution {
                         mono.pop();
                     }
                 }
+                mono.add(i);
             }
-            mono.add(i);
             i++;
         }
         return ans;
