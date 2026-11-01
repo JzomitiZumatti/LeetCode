@@ -6,7 +6,7 @@ class Solution {
             min = Math.min(min, num);
         }
         for (int num : nums) {
-            if (num > min) ans += (num - min);
+            ans += (num - min);
         }
         return ans;
     }
