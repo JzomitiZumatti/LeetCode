@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JzomitiZumatti/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JzomitiZumatti/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0890-lemonade-change](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1554,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/JzomitiZumatti/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JzomitiZumatti/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/JzomitiZumatti/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -1911,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JzomitiZumatti/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/JzomitiZumatti/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0941-sort-array-by-parity](https://github.com/JzomitiZumatti/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0969-pancake-sorting](https://github.com/JzomitiZumatti/LeetCode/tree/master/0969-pancake-sorting) |
