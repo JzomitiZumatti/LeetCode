@@ -15,6 +15,7 @@ class Solution {
             if (c2 < c1 && result2) {
                 result2 = false;
             }
+            if (!result1 && !result2) break;
         }
         return result1 || result2;
     }
