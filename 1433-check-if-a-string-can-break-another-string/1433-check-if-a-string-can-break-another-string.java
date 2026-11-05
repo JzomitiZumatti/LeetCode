@@ -9,17 +9,11 @@ class Solution {
         for (int i = 0; i < arr1.length; i++) {
             char c1 = arr1[i];
             char c2 = arr2[i];
-            if (c1 < c2) {
+            if (c1 < c2 && result1) {
                 result1 = false;
-                break;
             }
-        }
-        for (int i = 0; i < arr2.length; i++) {
-            char c2 = arr2[i];
-            char c1 = arr1[i];
-            if (c2 < c1) {
+            if (c2 < c1 && result2) {
                 result2 = false;
-                break;
             }
         }
         return result1 || result2;
