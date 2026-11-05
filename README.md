@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JzomitiZumatti/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1417-reformat-the-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1417-reformat-the-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1446-consecutive-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1258,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JzomitiZumatti/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1448-maximum-69-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/JzomitiZumatti/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -1935,6 +1937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/JzomitiZumatti/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JzomitiZumatti/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-sort-integers-by-the-power-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
