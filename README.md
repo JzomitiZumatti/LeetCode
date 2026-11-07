@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/JzomitiZumatti/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/JzomitiZumatti/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JzomitiZumatti/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/JzomitiZumatti/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1241-decompress-run-length-encoded-list](https://github.com/JzomitiZumatti/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1260-shift-2d-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -1510,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/JzomitiZumatti/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1952-three-divisors](https://github.com/JzomitiZumatti/LeetCode/tree/master/1952-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/JzomitiZumatti/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -2449,10 +2452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JzomitiZumatti/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Minimax
 |  |
 | ------- |
@@ -2483,4 +2488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0384-shuffle-an-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
