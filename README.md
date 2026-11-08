@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JzomitiZumatti/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1287-distance-between-bus-stops](https://github.com/JzomitiZumatti/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/JzomitiZumatti/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -1359,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/JzomitiZumatti/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -1392,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/JzomitiZumatti/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JzomitiZumatti/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1758,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/JzomitiZumatti/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/JzomitiZumatti/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1370-increasing-decreasing-string) |
@@ -2134,6 +2138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/JzomitiZumatti/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1314-matrix-block-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/JzomitiZumatti/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -2496,4 +2501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
