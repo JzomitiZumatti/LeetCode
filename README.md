@@ -1145,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3674-minimum-operations-to-equalize-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/JzomitiZumatti/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3697-compute-decimal-representation](https://github.com/JzomitiZumatti/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/JzomitiZumatti/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -1233,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JzomitiZumatti/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3693-climbing-stairs-ii](https://github.com/JzomitiZumatti/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
