@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JzomitiZumatti/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JzomitiZumatti/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3817-maximum-containers-on-a-ship](https://github.com/JzomitiZumatti/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JzomitiZumatti/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/JzomitiZumatti/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -1329,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/JzomitiZumatti/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/JzomitiZumatti/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/JzomitiZumatti/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Tree
