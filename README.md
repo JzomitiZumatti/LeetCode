@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JzomitiZumatti/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JzomitiZumatti/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1651-shuffle-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1651-shuffle-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1694-reformat-phone-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1694-reformat-phone-number) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1612-avoid-flood-in-the-city](https://github.com/JzomitiZumatti/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JzomitiZumatti/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JzomitiZumatti/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JzomitiZumatti/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1613,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1630-arithmetic-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1640-check-array-formation-through-concatenation](https://github.com/JzomitiZumatti/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JzomitiZumatti/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/JzomitiZumatti/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1972,6 +1975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JzomitiZumatti/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1630-arithmetic-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JzomitiZumatti/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JzomitiZumatti/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JzomitiZumatti/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JzomitiZumatti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
