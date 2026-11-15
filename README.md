@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1448-maximum-69-number) |
 | [1518-water-bottles](https://github.com/JzomitiZumatti/LeetCode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JzomitiZumatti/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/JzomitiZumatti/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JzomitiZumatti/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/JzomitiZumatti/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JzomitiZumatti/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/JzomitiZumatti/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/JzomitiZumatti/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1387-sort-integers-by-the-power-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JzomitiZumatti/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/JzomitiZumatti/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1641-count-sorted-vowel-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JzomitiZumatti/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -2274,6 +2277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JzomitiZumatti/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JzomitiZumatti/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JzomitiZumatti/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JzomitiZumatti/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
