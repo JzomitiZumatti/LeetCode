@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/JzomitiZumatti/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JzomitiZumatti/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/JzomitiZumatti/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1143-longest-common-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/JzomitiZumatti/LeetCode/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JzomitiZumatti/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/JzomitiZumatti/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -1230,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/JzomitiZumatti/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/JzomitiZumatti/LeetCode/tree/master/1086-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/JzomitiZumatti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JzomitiZumatti/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1387-sort-integers-by-the-power-value](https://github.com/JzomitiZumatti/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -2537,4 +2539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/JzomitiZumatti/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
