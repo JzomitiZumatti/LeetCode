@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/JzomitiZumatti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/JzomitiZumatti/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0372-super-pow) |
 | [0384-shuffle-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/JzomitiZumatti/LeetCode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JzomitiZumatti/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -2112,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JzomitiZumatti/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JzomitiZumatti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0372-super-pow) |
 | [1763-longest-nice-substring](https://github.com/JzomitiZumatti/LeetCode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JzomitiZumatti/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
@@ -2553,4 +2555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/JzomitiZumatti/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/JzomitiZumatti/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
